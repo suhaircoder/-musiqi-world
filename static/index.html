@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Free Music</title>
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <div class="page">
+    <header class="masthead">
+      <p class="eyebrow">Legal downloads</p>
+      <h1>Free Music</h1>
+      <p class="lede">Search by singer or song. Only music released under a free license is listed. Save the MP3, then copy it to a USB drive for your car.</p>
+    </header>
+
+    <form id="search-form" class="search" role="search">
+      <label for="q">Search by singer or song</label>
+      <div class="search-row">
+        <input id="q" name="q" type="search" placeholder="Singer name, song, or عربي" autocomplete="off" enterkeyhint="search" dir="auto">
+        <button type="submit">Search</button>
+      </div>
+    </form>
+
+    <div class="suggestions" aria-label="Search suggestions">
+      <button type="button" data-query="عربي">عربي</button>
+      <button type="button" data-query="piano">Piano</button>
+      <button type="button" data-query="jazz">Jazz</button>
+      <button type="button" data-query="guitar">Guitar</button>
+      <button type="button" data-query="electronic">Electronic</button>
+      <button type="button" data-query="ambient">Ambient</button>
+      <button type="button" data-query="acoustic">Acoustic</button>
+      <button type="button" data-query="classical">Classical</button>
+    </div>
+
+    <p class="source-note">Results are netlabel releases on the Internet Archive, in Arabic and other languages. Each one lists a Creative Commons or public-domain license. Radio hits are not included.</p>
+
+    <div class="layout">
+      <main>
+        <p id="status" class="status" role="status"></p>
+        <ol id="results" class="results"></ol>
+        <nav id="pager" class="pager" aria-label="Pages"></nav>
+      </main>
+      <aside class="saved" aria-labelledby="saved-heading">
+        <h2 id="saved-heading">Saved for your car</h2>
+        <p class="saved-copy">These files are on this computer. Copy the folder to a USB drive. Most car stereos play MP3.</p>
+        <code id="folder" class="folder"></code>
+        <button id="open-folder" class="secondary" type="button">Open folder</button>
+        <ul id="library" class="library"></ul>
+      </aside>
+    </div>
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

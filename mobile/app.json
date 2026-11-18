@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MUSIQI WORLD",
+    "slug": "musiqi-world",
+    "scheme": "musiqi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "world.musiqi.app" },
+    "android": { "package": "world.musiqi.app" },
+    "extra": { "apiUrl": "http://127.0.0.1:8000" }
+  }
+}

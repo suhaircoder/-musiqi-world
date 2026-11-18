@@ -1,0 +1,4059 @@
+{
+  "source": "Wikidata, Wikipedia, and MusicBrainz",
+  "artists": [
+    {
+      "id": "abdul-majeed-abdullah",
+      "nameAr": "عبد المجيد عبد الله",
+      "nameEn": "Abdul Majeed Abdullah",
+      "aliases": [
+        "عبدالمجيد عبدالله"
+      ],
+      "country": "Saudi Arabia",
+      "yemen": false,
+      "genres": [
+        "Arabic music",
+        "Khaliji",
+        "music of Saudi Arabia"
+      ],
+      "styles": [],
+      "bioEn": "Abdul Majeed Abdullah is a Saudi singer, composer, and actor. He is one of the most well-known performers of popular music in Middle East.",
+      "bioAr": "عبد المجيد عبد الله ، مغني وملحن سعودي.",
+      "bioSource": "https://en.wikipedia.org/wiki/Abdul_Majeed_Abdullah",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Abdul_Majid_Abdullah_%28cropped%29.jpg/330px-Abdul_Majid_Abdullah_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Abdul_Majeed_Abdullah",
+      "website": "",
+      "socials": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/abdulmajeedabdullah"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/Abdulmajeed6531"
+        }
+      ],
+      "listen": [
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "albums": [
+        {
+          "title": "رايق",
+          "date": "1997-01-01",
+          "mbid": "10e9fbaf-7d73-45e5-a193-028f8493a7f0"
+        },
+        {
+          "title": "أعز الناس",
+          "date": "2002",
+          "mbid": "25f5236f-79da-4a49-a77e-11c3aa1f8a87"
+        },
+        {
+          "title": "Melyon Khater",
+          "date": "2008-06-04",
+          "mbid": "31a9e529-ef1f-4908-b45f-31e7ae5cbcbf"
+        },
+        {
+          "title": "الحب الجديد",
+          "date": "2005-05-04",
+          "mbid": "37e47722-9e48-4110-9b01-39930fe6a6b8"
+        },
+        {
+          "title": "عبد المجيد عبد الله 2013",
+          "date": "2012-12-30",
+          "mbid": "46aa8e3d-5079-4f15-96e2-f393f86a6915"
+        },
+        {
+          "title": "Al Hob Al Jadid",
+          "date": "2006-07-04",
+          "mbid": "4e9d0383-f6b0-4ba4-a4de-48b996d2d83f"
+        },
+        {
+          "title": "Yataib El Galb",
+          "date": "1998",
+          "mbid": "6cb81c2f-e0be-4d79-b324-a22d77fbc9a7"
+        },
+        {
+          "title": "غالي (Ghali)",
+          "date": "1999",
+          "mbid": "734ce480-fd64-41da-91b3-3e554e57ef0d"
+        },
+        {
+          "title": "لو يوم احد",
+          "date": "2012",
+          "mbid": "79fd3e94-6fb8-4bd5-b349-d3ef459fc145"
+        },
+        {
+          "title": "انت العزيز",
+          "date": "2000-01-24",
+          "mbid": "8e88fc0f-0ea0-474d-90bf-bf0e2bad3f3f"
+        },
+        {
+          "title": "الخطايا العشر",
+          "date": "2013-10-12",
+          "mbid": "911fb3ca-a428-47fd-9042-fe2de17c91f9"
+        },
+        {
+          "title": "إنسان أكثر",
+          "date": "2006",
+          "mbid": "9b297976-8278-4c1a-8169-6f8c3140e756"
+        }
+      ],
+      "songs": [
+        {
+          "title": "منت رايق",
+          "date": "1997-01-01",
+          "mbid": "d9119fa3-7592-4591-b7bb-d16d4a872fa0"
+        },
+        {
+          "title": "صحيت جمره",
+          "date": "1997-01-01",
+          "mbid": "651ef09a-937d-4683-827a-917a90b65d2c"
+        },
+        {
+          "title": "ما بين بعينك",
+          "date": "1997-01-01",
+          "mbid": "2562d831-a11b-45dd-bdb6-9c7c083e58c1"
+        },
+        {
+          "title": "المحبة",
+          "date": "1997-01-01",
+          "mbid": "6201f337-4b2a-4eda-9686-8accf2c3c720"
+        },
+        {
+          "title": "شاغل بالي",
+          "date": "1997-01-01",
+          "mbid": "179f0687-c21a-4748-8fee-73da5b0288df"
+        },
+        {
+          "title": "احب الزين",
+          "date": "1997-01-01",
+          "mbid": "4be32d61-d176-4e7f-877b-6049a9571329"
+        },
+        {
+          "title": "فمان الجرح",
+          "date": "1997-01-01",
+          "mbid": "1728b99a-89e7-49da-ae0a-7da23b59a07b"
+        },
+        {
+          "title": "على كيفك",
+          "date": "1997-01-01",
+          "mbid": "9d66cf6b-c7d8-4e56-8608-b03928429d27"
+        },
+        {
+          "title": "انت السبب",
+          "date": "1997-01-01",
+          "mbid": "fb7a261d-7e37-41f3-ac37-68c2a140b5a9"
+        },
+        {
+          "title": "قمر",
+          "date": "2002",
+          "mbid": "7e47d4f8-9b01-4cc7-a756-bfa0653f2b99"
+        },
+        {
+          "title": "مطر صيف",
+          "date": "2002",
+          "mbid": "d4119fbd-bc39-4339-95eb-c9f360151db6"
+        },
+        {
+          "title": "أعز الناس",
+          "date": "2002",
+          "mbid": "99423521-fc29-4f76-a266-1d47c0845f9b"
+        },
+        {
+          "title": "حاكم العاشق",
+          "date": "2002",
+          "mbid": "b97b9f08-9c15-4b58-9b84-ea06be9dd26c"
+        },
+        {
+          "title": "القيد",
+          "date": "2002",
+          "mbid": "b27a550a-194e-45f9-b608-10701cdc7e9a"
+        },
+        {
+          "title": "خلاص إبعد",
+          "date": "2002",
+          "mbid": "dfb8210d-1e3a-4657-badd-aec6ce0498ae"
+        },
+        {
+          "title": "أسباب حبي",
+          "date": "2002",
+          "mbid": "39ca8c97-c0e7-4898-b5f7-324fc6d4175e"
+        },
+        {
+          "title": "غايب حبيبي",
+          "date": "2002",
+          "mbid": "9c12448b-eebc-4867-aef3-a988b2a247db"
+        },
+        {
+          "title": "إصحى تزعل",
+          "date": "2002",
+          "mbid": "4213a773-e541-487c-9b83-3a48b1366466"
+        },
+        {
+          "title": "تنتظر",
+          "date": "2002",
+          "mbid": "671b8e2b-207f-4f36-86cc-30a7b590163e"
+        },
+        {
+          "title": "شخص ثاني",
+          "date": "2008",
+          "mbid": "b72449e6-b48b-41d3-94b1-8d6c786b521e"
+        },
+        {
+          "title": "مليون خاطر",
+          "date": "2008",
+          "mbid": "505cdfd5-a3a5-4592-b690-4ff8f04b7084"
+        },
+        {
+          "title": "مرتاح",
+          "date": "2008",
+          "mbid": "0bf9ef9e-fb9d-482a-8ea2-283acb7baa3b"
+        },
+        {
+          "title": "Yama Hawelt",
+          "date": "2008",
+          "mbid": "5aefd981-f20d-4272-bac2-a493bf22f09f"
+        },
+        {
+          "title": "تالي تقديرك",
+          "date": "2008",
+          "mbid": "b8b92400-f991-49ce-8691-b545b5e1f276"
+        },
+        {
+          "title": "يحلمون",
+          "date": "2008",
+          "mbid": "0d47ce9e-0717-4906-800e-c3bea99bea1d"
+        },
+        {
+          "title": "سلامتك",
+          "date": "2008",
+          "mbid": "77a788e5-6348-45a6-ba1a-8ab8d812604f"
+        },
+        {
+          "title": "معقوله",
+          "date": "2008",
+          "mbid": "c735823e-4935-40de-9f85-b31caf3cabbf"
+        },
+        {
+          "title": "أموت بحبك",
+          "date": "2008",
+          "mbid": "2ffd9793-135d-4d5f-b055-d1b9fc207c01"
+        },
+        {
+          "title": "جيت",
+          "date": "2008",
+          "mbid": "112f0f2e-85d9-43ee-8e99-596ace1baebe"
+        },
+        {
+          "title": "للزاد",
+          "date": "2008",
+          "mbid": "a1d662ac-17c7-46e3-979d-d5d99b758f84"
+        },
+        {
+          "title": "الف مره",
+          "date": "2008",
+          "mbid": "696fe494-088e-41a7-99fd-51c680bf56e8"
+        },
+        {
+          "title": "حدك",
+          "date": "2008",
+          "mbid": "01ecdfbb-132c-480e-9223-da9b4db8840f"
+        },
+        {
+          "title": "الخاين الكذاب",
+          "date": "2008",
+          "mbid": "2ec39cd7-89de-4142-ba91-f90daa50b938"
+        },
+        {
+          "title": "ما ظنتي",
+          "date": "2008",
+          "mbid": "92d34060-20a1-4116-ab31-be95420ab3ce"
+        },
+        {
+          "title": "حظ عينك",
+          "date": "2008",
+          "mbid": "7aedf849-0bad-4c87-acb1-8bf98ba25563"
+        },
+        {
+          "title": "ياعديم الشوق",
+          "date": "2005-05-04",
+          "mbid": "dbf14f37-edd3-4b28-aa00-60d7fec7c8b3"
+        },
+        {
+          "title": "يا كحل العين",
+          "date": "2005-05-04",
+          "mbid": "e6d17ca8-113a-4b77-a0dc-19dea3a6fb40"
+        },
+        {
+          "title": "قول آمين",
+          "date": "2005-05-04",
+          "mbid": "a3fc83c4-4b5d-459f-85c4-4320f928c604"
+        },
+        {
+          "title": "ماكان الفراق",
+          "date": "2005-05-04",
+          "mbid": "1eda91f4-1a5e-441e-beb6-aca59214051d"
+        },
+        {
+          "title": "تمنيت",
+          "date": "2005-05-04",
+          "mbid": "322ea6bb-18cf-4d0e-bf4c-9a2e3008cd6f"
+        }
+      ],
+      "mbid": "df48c616-9f71-4e0d-85af-daf848beda2d",
+      "wikidata": "https://www.wikidata.org/wiki/Q3548114",
+      "verified": true
+    },
+    {
+      "id": "saad-lamjarred",
+      "nameAr": "سعد لمجرد",
+      "nameEn": "Saad Lamjarred",
+      "aliases": [
+        "سعد المجرد"
+      ],
+      "country": "Morocco",
+      "yemen": false,
+      "genres": [
+        "Arabic music",
+        "Khaliji",
+        "music of Morocco",
+        "pop music"
+      ],
+      "styles": [],
+      "bioEn": "Saad Bachir Lamjarred is a Moroccan singer, songwriter, actor, multi-instrumentalist, dancer, record producer, and convicted rapist. He is widely known for his music video \"LM3ALLEM\" which received over 1.2 billion views on YouTube, making it the most-viewed Arabic music video on YouTube. His music videos are among the most watched in the MENA region and the most viewed in Morocco.",
+      "bioAr": "سعد لمجرد هو مغني وراقص وممثل وكاتب كلمات وملحن ومنتج موسيقي مغربي، يعد واحدًا من أبرز المغنيين العرب وأكثرهم شهرة، ترعرع وسط عائلة فنية فهو ابن الفنان المغربي البشير عبدو والممثلة المغربية نزهة الركراكي. اشتهر بعد أن حطمت أغانيه العربية باللهجة الدارجة المغربية أرقامًا قياسية في نسب المشاهدة على موقع يوتيوب.",
+      "bioSource": "https://en.wikipedia.org/wiki/Saad_Lamjarred",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Saad_Lamjarred_Star_Academy_2015.jpg/330px-Saad_Lamjarred_Star_Academy_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Saad_Lamjarred",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/saadlamjarred1"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/saadlamjarred1"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/SaadLamjarred.Official"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UC9hJ5XcjHXYjwDOqrlQUuow"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/544406111"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Wala Alik",
+          "date": "2013-01-01",
+          "mbid": "d031eb3b-f117-4c5b-86ee-b5d17e8660b4"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Wana Mali (club edition)",
+          "date": "2013-01-01",
+          "mbid": "a8953844-f5e2-444c-a7c6-ff5ef16d5cba"
+        },
+        {
+          "title": "Jiti Fe Bali",
+          "date": "2013-01-01",
+          "mbid": "cbde873e-2ace-49aa-8aa3-1f6994afff8d"
+        },
+        {
+          "title": "Waadini",
+          "date": "2013-01-01",
+          "mbid": "1bbc317b-5d82-4838-bdfe-876d0a5a4523"
+        },
+        {
+          "title": "Lemima",
+          "date": "2013-01-01",
+          "mbid": "4f9abea4-57c7-4410-96d2-b4502ea386f0"
+        },
+        {
+          "title": "Aziz Ou Ghali",
+          "date": "2013-01-01",
+          "mbid": "4b6a5f50-c3b2-42ac-ad32-4a978b03a4e6"
+        },
+        {
+          "title": "Salina",
+          "date": "2013-01-01",
+          "mbid": "7628758f-594c-49a0-b4f4-66e153a15d76"
+        },
+        {
+          "title": "Lemen Nechki",
+          "date": "2013-01-01",
+          "mbid": "58097eda-d40a-4f92-bc3b-2faca5e816c8"
+        },
+        {
+          "title": "Wala Alik",
+          "date": "2013-01-01",
+          "mbid": "581c5461-c540-4c2e-9cbb-e0d8fa3ac3bd"
+        },
+        {
+          "title": "Wana Mali",
+          "date": "2013-01-01",
+          "mbid": "3db31822-6e55-4e25-846b-5eda15356f0b"
+        },
+        {
+          "title": "Katnadini",
+          "date": "2013-01-01",
+          "mbid": "f60189a1-f84f-434e-976d-0fcdd1977ea7"
+        },
+        {
+          "title": "Chemaa",
+          "date": "2013-01-01",
+          "mbid": "dbeeb0f1-c53f-41ff-8b99-672614bd870c"
+        },
+        {
+          "title": "Mal Hbibi",
+          "date": "2013-01-01",
+          "mbid": "89e344c8-0f19-473f-af97-93233361cfab"
+        }
+      ],
+      "mbid": "51c1564d-167c-48bc-8ca7-6c1bb7bf1106",
+      "wikidata": "https://www.wikidata.org/wiki/Q19630169",
+      "verified": true
+    },
+    {
+      "id": "majed-al-mohandis",
+      "nameAr": "ماجد المهندس",
+      "nameEn": "Majid Al Mohandis",
+      "aliases": [
+        "Majid Al Mohandis"
+      ],
+      "country": "Iraq",
+      "yemen": false,
+      "genres": [
+        "pop music",
+        "Arabic music",
+        "Khaliji",
+        "music of Saudi Arabia",
+        "music of Iraq"
+      ],
+      "styles": [],
+      "bioEn": "Majid Abd al-Amir Adir al-Attabi, better known as Majid Al Mohandis, is an Iraqi-Saudi singer and composer. His success in the Arab world has earned him the titles of \"the Engineer of the Arabic song\" and \"Voice of Diamond\".",
+      "bioAr": "ماجد المهندس ، مغني عراقي، يحمل الجنسية السعودية منذ 2010.",
+      "bioSource": "https://en.wikipedia.org/wiki/Majid_Al_Mohandis",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Majid_al-Muhandis%2C_Tenadeek_-_Arab_Idol%2C_Feb_18%2C_2017_%2802%29.png/330px-Majid_al-Muhandis%2C_Tenadeek_-_Arab_Idol%2C_Feb_18%2C_2017_%2802%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Majid_Al_Mohandis",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/majidalmohandis"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/majidalmohandis"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/majidalmohandis"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UC9FCkwbKLCLwjvoGRLg9mzQ"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/161709311"
+        }
+      ],
+      "albums": [
+        {
+          "title": "انا وياك",
+          "date": "2012-09-30",
+          "mbid": "15017dd9-7dda-4fbe-8387-e4c00343557c"
+        },
+        {
+          "title": "الدنيا دوارة",
+          "date": "2018",
+          "mbid": "1e932f75-be2e-4dea-af31-dc0ea7ce17f3"
+        },
+        {
+          "title": "انجنيت",
+          "date": "2006-10-24",
+          "mbid": "27687068-1917-46d0-807e-63fe356bac2d"
+        },
+        {
+          "title": "بديت أطيب",
+          "date": "2023-02-24",
+          "mbid": "3f97870b-46b7-4b8d-8829-5654f5deba65"
+        },
+        {
+          "title": "اذكرينى",
+          "date": "2009-09-20",
+          "mbid": "4574444b-4b52-4da0-99cb-9a02c3b73dae"
+        },
+        {
+          "title": "إنسى",
+          "date": "2008-05-28",
+          "mbid": "4db698ed-883a-439d-8b3e-486310eb12ea"
+        },
+        {
+          "title": "أخ قلبي",
+          "date": "2016",
+          "mbid": "561cc020-41af-4359-a8f1-d650f01e44a3"
+        },
+        {
+          "title": "واحشني موت",
+          "date": "2005-02-07",
+          "mbid": "ea1455e7-3cc7-4d42-bf2e-f34c95489600"
+        }
+      ],
+      "songs": [
+        {
+          "title": "انا حنيت",
+          "date": "2012-09-30",
+          "mbid": "59b77c3e-2bfb-4c12-b5a9-6b58e063fe72"
+        },
+        {
+          "title": "انا وياك",
+          "date": "2012-09-30",
+          "mbid": "9ac23220-c6e2-4e65-991b-fc49793d6b95"
+        },
+        {
+          "title": "جيت احبك",
+          "date": "2012-09-30",
+          "mbid": "05a2a73e-1224-40ae-8d55-274cd8ebc584"
+        },
+        {
+          "title": "موال اذا اشوفك",
+          "date": "2012-09-30",
+          "mbid": "2a678c4e-ec83-43c6-b0ab-9f0767ddc8b2"
+        },
+        {
+          "title": "بين غلاي",
+          "date": "2012-09-30",
+          "mbid": "2e892ddd-7f6d-4cc4-9622-6774df311467"
+        },
+        {
+          "title": "سحرني حلاها",
+          "date": "2012-09-30",
+          "mbid": "38d11524-2be1-496a-bcd2-6e9121805edc"
+        },
+        {
+          "title": "اهل بغداد",
+          "date": "2012-09-30",
+          "mbid": "5df178b3-90e9-45ee-8ca3-a59f5b890a86"
+        },
+        {
+          "title": "نصي التاني",
+          "date": "2012-09-30",
+          "mbid": "0ff793a8-c69c-4977-aae0-b26d6e403afe"
+        },
+        {
+          "title": "صبر ايوب",
+          "date": "2012-09-30",
+          "mbid": "673fd175-5fd0-47fa-920c-a3dcd7bf8ace"
+        },
+        {
+          "title": "كيف تحس",
+          "date": "2012-09-30",
+          "mbid": "dcf79d4d-d80e-43eb-9eb9-dbe9ce3dd673"
+        },
+        {
+          "title": "علي الذكري",
+          "date": "2012-09-30",
+          "mbid": "25d3100b-d319-486a-b87b-1c05969abb50"
+        },
+        {
+          "title": "علي بابك",
+          "date": "2012-09-30",
+          "mbid": "7afd683f-9ca2-4725-8277-51abea944824"
+        },
+        {
+          "title": "ليت لي",
+          "date": "2012-09-30",
+          "mbid": "7028c786-c3b4-43f3-b2a1-8a55b9ba0b2a"
+        },
+        {
+          "title": "يعني مهتم",
+          "date": "2012-09-30",
+          "mbid": "34aad66b-0d86-48aa-81b6-ec4d644e2504"
+        },
+        {
+          "title": "الدربيل",
+          "date": "2012-09-30",
+          "mbid": "150b1188-eea7-4366-8363-d13c296f938f"
+        },
+        {
+          "title": "رف قلبي",
+          "date": "2012-09-30",
+          "mbid": "0509ec21-ff57-4d47-a99e-f2f24c431e1e"
+        },
+        {
+          "title": "ذكرناكم",
+          "date": "2012-09-30",
+          "mbid": "b57ab403-4283-425e-90e8-cc4df884c994"
+        },
+        {
+          "title": "– على جدوك",
+          "date": "2018",
+          "mbid": "4adf4da0-790f-4ea5-9237-e8a9f40539dc"
+        },
+        {
+          "title": "– على طاري",
+          "date": "2018",
+          "mbid": "cbfafaaf-01f9-4b27-b440-a97f223ed88a"
+        },
+        {
+          "title": "– أعساك على القوة",
+          "date": "2018",
+          "mbid": "dd4750c2-4447-4d8a-83a7-de9684230cd9"
+        },
+        {
+          "title": "– أميرة",
+          "date": "2018",
+          "mbid": "25a660bb-d4f3-48f2-8894-f1bb444aad30"
+        },
+        {
+          "title": "– أنا ولَهان",
+          "date": "2018",
+          "mbid": "027dd453-47f8-413e-87a3-ba607d1383cd"
+        },
+        {
+          "title": "– أنا مسيطر",
+          "date": "2018",
+          "mbid": "1a225635-651d-4bbf-9438-4df7ea66b98c"
+        },
+        {
+          "title": "– إلى متى",
+          "date": "2018",
+          "mbid": "0d1bb4b5-a0e8-464f-be82-28413e624017"
+        },
+        {
+          "title": "– الدنيا دوارة",
+          "date": "2018",
+          "mbid": "c2266d26-b172-4f72-805b-3687e782ae77"
+        },
+        {
+          "title": "– الحاجه",
+          "date": "2018",
+          "mbid": "820fd38c-d8de-46f0-8bc3-298a7370f069"
+        },
+        {
+          "title": "– عرفنا بعث",
+          "date": "2018",
+          "mbid": "3b91dfd4-52c3-4829-b6c6-5b12848a502a"
+        },
+        {
+          "title": "– فاهموك",
+          "date": "2018",
+          "mbid": "97638c26-d2af-47fa-b2f5-b4026cf4bc4c"
+        },
+        {
+          "title": "– خوش واحد",
+          "date": "2018",
+          "mbid": "3232a177-46b4-4f59-bf68-28bba4a62c26"
+        },
+        {
+          "title": "– لا تهى",
+          "date": "2018",
+          "mbid": "afa8c1b5-973c-450f-a856-0747846104fe"
+        },
+        {
+          "title": "– لابا جبنك",
+          "date": "2018",
+          "mbid": "b8d076f5-e26c-46b0-b355-58ebbb06c72b"
+        },
+        {
+          "title": "– لي يطمن قلبي",
+          "date": "2018",
+          "mbid": "8c243f3f-06fb-4b9a-9257-7534c0095211"
+        },
+        {
+          "title": "– لو تزعلنا",
+          "date": "2018",
+          "mbid": "f4fdfbe1-407a-4e03-86e8-7dadc4e92f03"
+        },
+        {
+          "title": "– من الآخر",
+          "date": "2018",
+          "mbid": "6d7e54e9-5885-4dad-957f-c6301dbc86c6"
+        },
+        {
+          "title": "– ناقصك شي",
+          "date": "2018",
+          "mbid": "0e0244a4-f00e-49c2-a6d3-664a09eb2ac4"
+        },
+        {
+          "title": "– أوف",
+          "date": "2018",
+          "mbid": "88fb3371-a3ae-4f84-a357-8dc20f834260"
+        },
+        {
+          "title": "– تسيبني وتروح",
+          "date": "2018",
+          "mbid": "30b4e1bd-f182-4151-bc19-d31a46fcc65f"
+        },
+        {
+          "title": "– ودي أنسى",
+          "date": "2018",
+          "mbid": "00c68c25-e8b4-44cd-ba38-a5fa72bc1dce"
+        },
+        {
+          "title": "– وين وين",
+          "date": "2018",
+          "mbid": "c1ccc9dc-46c1-47db-b2e8-311b977f4e52"
+        },
+        {
+          "title": "– وش تقول",
+          "date": "2018",
+          "mbid": "d122166b-94e5-49e3-a39e-9b42d9a55df9"
+        }
+      ],
+      "mbid": "0d72039b-5734-407d-9b19-23511c09a306",
+      "wikidata": "https://www.wikidata.org/wiki/Q12238123",
+      "verified": true
+    },
+    {
+      "id": "mohammed-abdu",
+      "nameAr": "محمد عبده عثمان العسيري",
+      "nameEn": "Mohammed Abdu",
+      "aliases": [
+        "Mohamed Abdu"
+      ],
+      "country": "Saudi Arabia",
+      "yemen": false,
+      "genres": [],
+      "styles": [],
+      "bioEn": "Mohammed Abdu is a Saudi singer. He has been described as the \"Artist of the Arabs\".",
+      "bioAr": "محمد عبده مطرب وملحِّن سعودي، من أشهر الفنانين العرب المُخضرَمين الذين عاصروا الجيل القديم والحديث. اشتَهَر بلقب «فنَّان العرب»، ويحظى بتقدير كبير في الساحة الفنية. شارك كثيرًا بالغناء على المسارح العربية الكبرى في الخليج العربي، والشام، وشمال إفريقيا، وأقام العديد من الحفَلات في مسارح العالم، أبرزها في كرنفال جنيف، ولندن، وواشنطن، ولوس أنجلوس.",
+      "bioSource": "https://en.wikipedia.org/wiki/Mohammed_Abdu",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mohammed_Abdu.jpg/330px-Mohammed_Abdu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Mohammed_Abdu",
+      "website": "http://abdu-tarab.com",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/Mohammed_Abdu"
+        }
+      ],
+      "listen": [
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        }
+      ],
+      "albums": [
+        {
+          "title": "تستاهل الحب نجدية",
+          "date": "1985-01-01",
+          "mbid": "02c88170-4be0-4d2e-a5ab-560ad416e5ee"
+        },
+        {
+          "title": "شبيه الريح",
+          "date": "2001-01-01",
+          "mbid": "057a0cc0-36dc-44a7-84a3-98be19f13a8c"
+        },
+        {
+          "title": "El Hawa El Ghayeb",
+          "date": "2008-02-12",
+          "mbid": "09cff7d0-7f13-4b38-a77b-c29b169e492b"
+        },
+        {
+          "title": "الأماكن جدة غير ٢٠٠٥",
+          "date": "2005-05-25",
+          "mbid": "0a1aaab9-7f22-45a5-bdf3-90b418389f1a"
+        },
+        {
+          "title": "شعبيّات",
+          "date": "1991-01-01",
+          "mbid": "0b0bcde0-3242-4a0f-abd0-4724e24ef062"
+        },
+        {
+          "title": "يا غايبٍ (لندن 97)",
+          "date": "1997-01-01",
+          "mbid": "0bac334e-53f2-4bb8-a751-b5ba2e7719cc"
+        },
+        {
+          "title": "Ana Habibi",
+          "date": "2008-09-02",
+          "mbid": "12b180bf-6dbb-4c68-acd9-1bef34c79480"
+        },
+        {
+          "title": "Shabyat 8",
+          "date": "1992-01-25",
+          "mbid": "1f14a62b-44b9-48ad-a528-8c80fac4ff26"
+        },
+        {
+          "title": "Daani Al Shoug",
+          "date": "",
+          "mbid": "1f23cd71-f6d0-4540-b3e7-b3b404cc2d0f"
+        },
+        {
+          "title": "الونة (لندن 97)",
+          "date": "1997-01-01",
+          "mbid": "2a2a53a4-71f3-463b-9f80-4ff28d4304d7"
+        },
+        {
+          "title": "بعلن عليها الحب",
+          "date": "2013-03-27",
+          "mbid": "2a9212b2-1507-4db6-8c55-4854698de60a"
+        },
+        {
+          "title": "المعاناة",
+          "date": "1995-01-01",
+          "mbid": "2b4b41db-e056-4d55-94bb-e97c30957915"
+        }
+      ],
+      "songs": [
+        {
+          "title": "مالي أراها",
+          "date": "1985-01-01",
+          "mbid": "74f2156d-80c4-43ea-b6b0-5117e063978f"
+        },
+        {
+          "title": "تستاهل الحب نجدية",
+          "date": "1985-01-01",
+          "mbid": "2a5e4c26-2810-45bc-a845-ce1b43218b01"
+        },
+        {
+          "title": "أنادي يا هلي",
+          "date": "1985-01-01",
+          "mbid": "ef825c17-ca09-42be-86c4-38f4325c648e"
+        },
+        {
+          "title": "الود طبعي",
+          "date": "1985-01-01",
+          "mbid": "b276c76e-87b9-484a-9615-963ae47ddd02"
+        },
+        {
+          "title": "ترحب بغيري",
+          "date": "1985-01-01",
+          "mbid": "87701f67-3c63-43fa-8ba0-77b742af2c4e"
+        },
+        {
+          "title": "يا زهور العشب",
+          "date": "1985-01-01",
+          "mbid": "39fb2039-9d84-4f2f-a29b-d862b1b2ffc1"
+        },
+        {
+          "title": "غريب الدار",
+          "date": "1985-01-01",
+          "mbid": "ec7fbdba-8a38-4fa1-b1a3-4a4594864b15"
+        },
+        {
+          "title": "شبيه الريح",
+          "date": "2001",
+          "mbid": "5e404297-abe0-4169-b002-40ce99f486d1"
+        },
+        {
+          "title": "أحبه حيل",
+          "date": "2001",
+          "mbid": "89f543ef-0656-4543-87f6-d1b7ec39b2ed"
+        },
+        {
+          "title": "ما عاد بدري",
+          "date": "2001",
+          "mbid": "2b608620-55b2-4808-8b00-6f4a604c1777"
+        },
+        {
+          "title": "سيّر علينا",
+          "date": "2001",
+          "mbid": "6a32ee81-c2b6-43d3-a31e-972c302c4f94"
+        },
+        {
+          "title": "سمّي",
+          "date": "2001",
+          "mbid": "67389f3c-12d9-42b7-af41-304278e63ead"
+        },
+        {
+          "title": "Ma Tmaneitak",
+          "date": "2008-02-12",
+          "mbid": "594cdafd-9b8b-4d9e-ad08-8e9d11728129"
+        },
+        {
+          "title": "Habib Al Hob",
+          "date": "2008-02-12",
+          "mbid": "ac6a7b59-9e96-4e00-b4be-2cc2ef066b0e"
+        },
+        {
+          "title": "El Hawa El Ghayeb",
+          "date": "2008-02-12",
+          "mbid": "d119b085-aecd-4133-9e23-19811692bdc7"
+        },
+        {
+          "title": "Ahwal",
+          "date": "2008-02-12",
+          "mbid": "80e68ee3-48b9-4979-9566-0aab7c68550c"
+        },
+        {
+          "title": "Taal",
+          "date": "2008-02-12",
+          "mbid": "43b90624-6fde-4a22-ab51-32b7f2c05c7b"
+        },
+        {
+          "title": "Haza El Mesa",
+          "date": "2008-02-12",
+          "mbid": "628ff24f-dd9b-4a88-83d7-07554dec88f2"
+        },
+        {
+          "title": "Maghrora",
+          "date": "2008-02-12",
+          "mbid": "fdf7f3b5-2e82-4faa-81e5-80543d5edddc"
+        },
+        {
+          "title": "Teijebini",
+          "date": "2008-02-12",
+          "mbid": "f14d1663-fdd8-48cf-a152-d41ddf779a69"
+        },
+        {
+          "title": "الأماكن",
+          "date": "2005-05-25",
+          "mbid": "0f56f94b-7688-44b2-b778-31ec72ce7d25"
+        },
+        {
+          "title": "الوفا طبعي",
+          "date": "2005-05-25",
+          "mbid": "dd65ade3-78f4-4b87-88fb-b15792fb7c35"
+        },
+        {
+          "title": "حظيظ",
+          "date": "2005-05-25",
+          "mbid": "79db3ef6-ad7f-4852-bcc2-0f0c33308738"
+        },
+        {
+          "title": "من فتونك",
+          "date": "2005-05-25",
+          "mbid": "525591d3-0a2e-461d-bcbc-bd0d0a454f98"
+        },
+        {
+          "title": "طاب طاب الأوان",
+          "date": "1991-01-01",
+          "mbid": "1d275b71-e2df-4d26-b765-fadb064ca558"
+        },
+        {
+          "title": "الناس عليك يا ريم",
+          "date": "1991-01-01",
+          "mbid": "13e0e197-34dd-4f8d-ae47-1d46321a7569"
+        },
+        {
+          "title": "لك الله يا غريب",
+          "date": "1991-01-01",
+          "mbid": "6bbbfe86-3080-4608-8367-132cbf099c7c"
+        },
+        {
+          "title": "أنورت سودة عسير",
+          "date": "1991-01-01",
+          "mbid": "72ac8551-46e0-4a11-891c-8c2efb8ca13b"
+        },
+        {
+          "title": "سريت ليل الهوى",
+          "date": "1991-01-01",
+          "mbid": "bd6e8b0d-d7f1-47c0-9ab6-4990f5eb6524"
+        },
+        {
+          "title": "باح العزا",
+          "date": "1991-01-01",
+          "mbid": "4a27bfb4-5b5e-46eb-acc2-7af6e4514b49"
+        },
+        {
+          "title": "السيل",
+          "date": "1991-01-01",
+          "mbid": "c1705d17-0236-4a1e-88ed-90162e14fb6c"
+        },
+        {
+          "title": "لو وفيت",
+          "date": "1991-01-01",
+          "mbid": "b61f077d-8954-4ea0-ae60-4f17982a828a"
+        },
+        {
+          "title": "في سحابة",
+          "date": "1991-01-01",
+          "mbid": "ed6e79bb-d806-4544-900b-ad6207e5a191"
+        },
+        {
+          "title": "حياتي كلها صبر وجلادة",
+          "date": "1991-01-01",
+          "mbid": "f499024e-b289-4750-986f-1884a26c36b3"
+        },
+        {
+          "title": "كريم يا بارق",
+          "date": "1991-01-01",
+          "mbid": "54b69654-a67f-4eb5-b2d0-9902ccf3b532"
+        },
+        {
+          "title": "يا ذا الحمام",
+          "date": "1991-01-01",
+          "mbid": "dec0ac8b-85ec-403c-b936-e727bbfaa828"
+        },
+        {
+          "title": "سلم عليّه بعينك (لندن 97)",
+          "date": "1997-01-01",
+          "mbid": "6044b656-4dd4-4824-956b-51afd5b25c22"
+        },
+        {
+          "title": "أقرب الناس (لندن 97)",
+          "date": "1997-01-01",
+          "mbid": "992bcb75-41f4-4e39-8598-ac98a14c871c"
+        },
+        {
+          "title": "يا غايبٍ (لندن 97)",
+          "date": "1997-01-01",
+          "mbid": "f9d32dc0-a5b7-47cf-bb6f-3cbab06d48fe"
+        },
+        {
+          "title": "لنا الله (لندن 97)",
+          "date": "1997-01-01",
+          "mbid": "00a6073e-3cf2-451a-82bf-f6e7cad58435"
+        }
+      ],
+      "mbid": "f0867abd-c959-495b-9774-f1966076027b",
+      "wikidata": "https://www.wikidata.org/wiki/Q76796",
+      "verified": true
+    },
+    {
+      "id": "elissa",
+      "nameAr": "إليسا",
+      "nameEn": "Elissa",
+      "aliases": [
+        "اليسا"
+      ],
+      "country": "Lebanon",
+      "yemen": false,
+      "genres": [
+        "pop music",
+        "world music",
+        "Arabic music",
+        "Khaliji",
+        "music of Lebanon",
+        "sentimental ballad"
+      ],
+      "styles": [],
+      "bioEn": "Elissar Zakaria Khoury, commonly known as Elissa, is a Lebanese singer and television personality. Known for her romantic musical style and emotive vocal performances, she has been dubbed as the \"Queen of Emotions\". Her musical career began in 1992 when she was featured in the Lebanese talent show Studio El Fan; later being awarded the silver medal. In 1998, she released her debut studio album Baddy Doub through EMI Music Arabia. Her second album W'akherta Maak (2000) featured the single \"Betghib Betrouh\", a duet with Ragheb Alama.",
+      "bioAr": "إليسا ، مغنية لبنانية، حققت شهرة واسعة في العالم العربي.",
+      "bioSource": "https://en.wikipedia.org/wiki/Elissa_(singer)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Elissa_-_August_24%2C_2012_%282%29.jpg/330px-Elissa_-_August_24%2C_2012_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Elissa_(singer)",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/elissakh"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/elissazkh"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ElissaFans"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCwVXB9hCnLiarr3pZLmnr2w"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Halet Hob حالة حب",
+          "date": "2014-07-25",
+          "mbid": "08ca9707-38ec-415d-a0bd-2931eeb0aeaf"
+        },
+        {
+          "title": "Ana Sekketen أنا سكتين",
+          "date": "2024-05-07",
+          "mbid": "1758c1cc-7eb9-4793-9f84-aba5f9b5447f"
+        },
+        {
+          "title": "Bastanak بستناك",
+          "date": "2005",
+          "mbid": "18a253e0-81fa-3f3c-841e-0c59704fcb8c"
+        },
+        {
+          "title": "Ayami Bik أيامي بيك",
+          "date": "2007-12-18",
+          "mbid": "1e4a9961-d6a1-4225-ab5d-225255f248fe"
+        },
+        {
+          "title": "Aàyshalak عايشالك",
+          "date": "2002",
+          "mbid": "63690509-41ed-33b6-bbde-ab932a3debcf"
+        },
+        {
+          "title": "Saharna Ya Lail سهرنا يا ليل",
+          "date": "2016-09-02",
+          "mbid": "7ae455ed-48f1-46f2-a32d-49afab4b4b60"
+        },
+        {
+          "title": "Sahbit Raey صاحبة رأي",
+          "date": "2020-08-17",
+          "mbid": "7fb07d12-7dc3-43cf-8f34-2abeb10d4463"
+        },
+        {
+          "title": "Wakhretha Maak",
+          "date": "2000-09-23",
+          "mbid": "8fcb4080-35d3-45e3-9e6e-faf54274bde6"
+        },
+        {
+          "title": "Baddy Doub بدي دوب",
+          "date": "1999",
+          "mbid": "925fdf44-8e29-3dc8-a9b5-874db8d3703f"
+        },
+        {
+          "title": "Elissar",
+          "date": "2026-11-05",
+          "mbid": "95d41131-2b23-499f-88d1-e4c9f8d3322c"
+        },
+        {
+          "title": "As3ad Wa7da أسعد واحدة",
+          "date": "2012-06-19",
+          "mbid": "afb74366-01aa-4139-8533-5228c0fc7a21"
+        },
+        {
+          "title": "Ila Kol Ili Bihibbouni إلى كل اللي بيحبوني",
+          "date": "2018-07-25",
+          "mbid": "e399538e-5f34-4c5e-bfd0-db26863face4"
+        }
+      ],
+      "songs": [
+        {
+          "title": "حب كل حياتي",
+          "date": "2014-07-25",
+          "mbid": "e82fc3f2-494e-4d8a-a204-d8a3dab89032"
+        },
+        {
+          "title": "حالة حب",
+          "date": "2014-07-25",
+          "mbid": "e04163a4-d629-4ff0-875f-a939f79f1cba"
+        },
+        {
+          "title": "يا مرايتي",
+          "date": "2014-07-25",
+          "mbid": "a7c48b5d-ec68-4679-b9cb-2a851cf406c7"
+        },
+        {
+          "title": "حلوة يا بلدي",
+          "date": "2014-07-25",
+          "mbid": "2206a10d-8b41-4971-9525-22f2fd04bad8"
+        },
+        {
+          "title": "بطلي تحبيه",
+          "date": "2014-07-25",
+          "mbid": "c7ef18c9-139a-454d-bd9c-0a509057f184"
+        },
+        {
+          "title": "قد الايام",
+          "date": "2014-07-25",
+          "mbid": "cc306b2e-41c9-4e48-85a6-d0142e806b76"
+        },
+        {
+          "title": "إنسانة بريئة",
+          "date": "2014-07-25",
+          "mbid": "12f8e20e-a594-49fa-ae24-7cc43aba6506"
+        },
+        {
+          "title": "وجعت قلبي",
+          "date": "2014-07-25",
+          "mbid": "e4bf1baa-49f7-4391-aefc-d7f35adab95a"
+        },
+        {
+          "title": "انا مجنونة",
+          "date": "2014-07-25",
+          "mbid": "6e970b9b-16b4-44f2-93c3-3698019f7e4d"
+        },
+        {
+          "title": "برغم الظروف",
+          "date": "2014-07-25",
+          "mbid": "f9bede95-4157-4728-8d14-f615d191611a"
+        },
+        {
+          "title": "عمر جديد",
+          "date": "2014-07-25",
+          "mbid": "43ba49fc-7dc2-4ea0-942e-e569ad06a6b2"
+        },
+        {
+          "title": "انا نفسي",
+          "date": "2014-07-25",
+          "mbid": "aedf6f07-ca29-4a24-8e96-125e2c6e0c14"
+        },
+        {
+          "title": "لو اتقابلنا",
+          "date": "2014-07-25",
+          "mbid": "f67ed4f6-1c01-42cf-a92e-2226ac242761"
+        },
+        {
+          "title": "اول مره",
+          "date": "2014-07-25",
+          "mbid": "99d060bb-3738-4c42-9782-a3022f1c1765"
+        },
+        {
+          "title": "Beat بتمايل على ال",
+          "date": "2024-05-07",
+          "mbid": "3f22c093-87df-45a4-842a-d800bc6bfbdd"
+        },
+        {
+          "title": "أنا سكتين",
+          "date": "2024-05-07",
+          "mbid": "a66684ce-8044-437e-872e-4d760d95033e"
+        },
+        {
+          "title": "فرحانة معاك",
+          "date": "2024-05-07",
+          "mbid": "d3a3bf43-0ece-4bd5-a790-a08954962e92"
+        },
+        {
+          "title": "كلو وهم",
+          "date": "2024-05-07",
+          "mbid": "66e04202-29d5-4e02-b228-fd8c7eec9a3c"
+        },
+        {
+          "title": "العقد",
+          "date": "2024-05-07",
+          "mbid": "435068d1-c0b6-4eaf-86f4-f04452f1e75c"
+        },
+        {
+          "title": "النظرة الأولى",
+          "date": "2024-05-07",
+          "mbid": "76832a71-0161-4194-bbca-2b47f6a1b2d5"
+        },
+        {
+          "title": "شو كان بيمنعك",
+          "date": "2024-05-07",
+          "mbid": "d4356dda-1b03-4f22-93ef-996224450eba"
+        },
+        {
+          "title": "من أول السطر",
+          "date": "2024-05-07",
+          "mbid": "db1ce6ae-7210-40c5-8802-24c5a4a2c2dd"
+        },
+        {
+          "title": "نظرات",
+          "date": "2024-05-07",
+          "mbid": "82f1d013-b8ee-48f8-aa3c-3db178469eb3"
+        },
+        {
+          "title": "حظي ضحكلي",
+          "date": "2024-05-07",
+          "mbid": "eb69f9e1-49a0-4706-b767-3676e017def8"
+        },
+        {
+          "title": "حلالي",
+          "date": "2024-05-07",
+          "mbid": "275d67bd-bef7-4a2a-971d-c849138165cf"
+        },
+        {
+          "title": "خوليو وفيروز",
+          "date": "2024-05-07",
+          "mbid": "536a864a-b488-4a05-998b-5bd516197523"
+        },
+        {
+          "title": "بستناك",
+          "date": "2005",
+          "mbid": "c530c270-fb5e-430f-8376-9a522549b808"
+        },
+        {
+          "title": "كرمالك",
+          "date": "2005",
+          "mbid": "3973820b-19c7-4297-a925-9044f98076e9"
+        },
+        {
+          "title": "فاتت سنين",
+          "date": "2005",
+          "mbid": "f106f1d2-5f27-47d0-9271-3fca442c331a"
+        },
+        {
+          "title": "ذنبي أنا",
+          "date": "2005",
+          "mbid": "cc7990c3-3c8f-4edf-a26c-fc680dd3e529"
+        },
+        {
+          "title": "بعيش على حسك",
+          "date": "2005",
+          "mbid": "9ddbdd42-0b12-4e05-9af4-5687a4b50027"
+        },
+        {
+          "title": "طلوب تمنى",
+          "date": "2005",
+          "mbid": "cb27b796-662d-460a-9537-88c83e2f5d29"
+        },
+        {
+          "title": "تعا",
+          "date": "2005",
+          "mbid": "0aa891ef-d88e-4ec8-97a7-ded01f586c74"
+        },
+        {
+          "title": "ماتخافش مني",
+          "date": "2005",
+          "mbid": "cf85df29-723e-46fa-b9e2-0f7a4549c53a"
+        },
+        {
+          "title": "حكايتي معك",
+          "date": "2005",
+          "mbid": "72a31be4-e81f-4679-9d13-9203dd6daaee"
+        },
+        {
+          "title": "لو بصيت قادامك",
+          "date": "2005",
+          "mbid": "a1bd2592-93c3-44b1-830c-1bcdb5747b61"
+        },
+        {
+          "title": "لو كان",
+          "date": "2005",
+          "mbid": "c7faadc7-90c2-4c15-9968-37f4c7fd9664"
+        },
+        {
+          "title": "لو تعرفوه",
+          "date": "2005",
+          "mbid": "33d7fc4c-761e-4bf7-b1f3-5023590dd5a9"
+        },
+        {
+          "title": "كرمالك (remix)",
+          "date": "2005",
+          "mbid": "a449fdb7-2d29-49ab-bb2a-42688ccea4cd"
+        },
+        {
+          "title": "(أيامي بيك (وأنا أقدر",
+          "date": "2007-12-18",
+          "mbid": "f00d447f-551f-4e04-a4bd-581148c9802a"
+        }
+      ],
+      "mbid": "8bd1e3c9-780a-4bbe-b59b-39e4aa2eca5a",
+      "wikidata": "https://www.wikidata.org/wiki/Q1118831",
+      "verified": true
+    },
+    {
+      "id": "najwa-karam",
+      "nameAr": "نجوى كرم",
+      "nameEn": "Najwa Karam",
+      "aliases": [],
+      "country": "Lebanon",
+      "yemen": false,
+      "genres": [
+        "Arabic music",
+        "music of Lebanon",
+        "Khaliji",
+        "music of Egypt"
+      ],
+      "styles": [],
+      "bioEn": "Najwa Karam is a Lebanese singer, songwriter, and producer. She has sold an estimated 60 million records and is one of the highest-selling recording artists in the Middle East.",
+      "bioAr": "نجوى كرم ، مغنية لبنانية تحمل الجنسية الكندية \nتعتبر من أكثر الفنانات شعبية وجماهيرية في الوطن العربي. ولدت في قضاء زحلة لعائلة مارونية. بدأت حياتها كمدرسة وانطلقت في الغناء في فترة ثمانينات القرن العشرين. في عام 1985 شاركت في برنامج «ليالي لبنان» وحصلت على الميدالية الذهبية. أطلقت في عام 1989 أول ألبوم لها بعنوان «يا حبايب»، ثم أصدرت ألبومها الثاني «شمس الغنية» عام 1992 الذي حقق نجاحا كبيرًا، وأطلقت في السنوات التالية عدة ألبومات أخرى بمعدل ألبوم في السنة الواحدة. أطلق الإعلامي اللبناني جورج إبراهيم الخوري عليها لقب شمس الأغنية اللبنانية.",
+      "bioSource": "https://en.wikipedia.org/wiki/Najwa_Karam",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Najwa_Karam%2C_New_Year%27s_Eve_%281%29.jpg/330px-Najwa_Karam%2C_New_Year%27s_Eve_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Najwa_Karam",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/najwakaram"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/najwakaram"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/NajwaKaram"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCpV84RKPU4YgoZauTYDG13w"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/14601653"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Naghmet Hob نغمة حب",
+          "date": "1994",
+          "mbid": "080f56df-7dc9-40fd-ba40-8d31533deb57"
+        },
+        {
+          "title": "Rouh Rouhi روح روحي",
+          "date": "1999",
+          "mbid": "0c1f82ea-ea2e-43a7-a6e7-ddaf5b1f3e57"
+        },
+        {
+          "title": "Ana Ma'akon أنا معكن",
+          "date": "1993",
+          "mbid": "155b5eae-d23b-4728-ab3c-d1d3704b2ec5"
+        },
+        {
+          "title": "Saharni سَحَرني",
+          "date": "2003",
+          "mbid": "1ea74183-5bc3-40e7-b121-00a3af5c4817"
+        },
+        {
+          "title": "Shu Mghayara شو مغيره..!",
+          "date": "2004",
+          "mbid": "3af5643c-6829-4bba-8232-0cf42e753793"
+        },
+        {
+          "title": "Menni Elak مني إلك",
+          "date": "2017-05-19",
+          "mbid": "47dd89ea-5650-4604-afa0-b01f953a633c"
+        },
+        {
+          "title": "Ma Hada LaHada ما حدا لحدا",
+          "date": "1997",
+          "mbid": "4f136858-1938-4cf0-bbc7-8a3c3ae48d69"
+        },
+        {
+          "title": "Hayda Haki ...هيدا حكي",
+          "date": "2007",
+          "mbid": "61227a7f-cec3-402c-a158-c0ee6603b995"
+        },
+        {
+          "title": "Oyoun Qalbi عيون قلبي",
+          "date": "2000",
+          "mbid": "62cfba3d-591d-49cd-ba0e-96233ddcbf79"
+        },
+        {
+          "title": "Chams El-Ghinnieh شمس الغنية",
+          "date": "1992",
+          "mbid": "6ee93194-472b-4729-8e8f-6412a125d80d"
+        },
+        {
+          "title": "Hazzi Helo حظي حلو",
+          "date": "1996",
+          "mbid": "7bdee2e3-573e-4b78-bd4e-e742bf16c43a"
+        },
+        {
+          "title": "Ma Bassmahlak مابسمحلك",
+          "date": "1995",
+          "mbid": "7ee3490b-9819-41a2-b288-9822ca34c7d0"
+        }
+      ],
+      "songs": [
+        {
+          "title": "لو حبيتك",
+          "date": "1994",
+          "mbid": "69cdae3f-0da4-4278-9c88-67c137d559f1"
+        },
+        {
+          "title": "الا لا",
+          "date": "1994",
+          "mbid": "604ffe28-fb93-4684-ba04-8c903a5a30a7"
+        },
+        {
+          "title": "لو ماكنا",
+          "date": "1994",
+          "mbid": "c4082197-42b2-4d70-9cf7-4527f5322435"
+        },
+        {
+          "title": "العرس",
+          "date": "1994",
+          "mbid": "e2014470-ddf2-4c67-b723-c81a7402dcf2"
+        },
+        {
+          "title": "حلم الدار",
+          "date": "1994",
+          "mbid": "5b854688-206b-4ce0-abd4-96d53a731171"
+        },
+        {
+          "title": "ورود الدار",
+          "date": "1994",
+          "mbid": "9aecf5cc-5ebf-4c0c-8097-7e93eb4d1678"
+        },
+        {
+          "title": "نغمة حب",
+          "date": "1994",
+          "mbid": "e1807069-f1f5-463f-831b-dd894b6664ee"
+        },
+        {
+          "title": "عطشانة",
+          "date": "1999",
+          "mbid": "80a34324-0ac5-4643-a4c4-af835605cb06"
+        },
+        {
+          "title": "عرفتوا قلبي لمين",
+          "date": "1999",
+          "mbid": "c45e18e0-7760-49ae-93c0-207253934970"
+        },
+        {
+          "title": "روح روحي",
+          "date": "1999",
+          "mbid": "4e4d966b-fa99-4c70-925d-59996933dbd5"
+        },
+        {
+          "title": "كيف بداويك",
+          "date": "1999",
+          "mbid": "02dbcff4-105f-488a-8649-4b913f870247"
+        },
+        {
+          "title": "ما برضى غيرك",
+          "date": "1999",
+          "mbid": "aa1094dc-6395-4bb3-b347-f26c81a1818c"
+        },
+        {
+          "title": "الوفية",
+          "date": "1999",
+          "mbid": "4b052a22-316e-497b-a0b2-d8940c83b398"
+        },
+        {
+          "title": "إن رديت عليك",
+          "date": "1999",
+          "mbid": "dcc260a1-0b05-47b7-95e6-de960b5bb054"
+        },
+        {
+          "title": "أنا معكن",
+          "date": "1993",
+          "mbid": "3c7799a4-cbb4-4428-ba2d-86164ba31bec"
+        },
+        {
+          "title": "مدللين",
+          "date": "1993",
+          "mbid": "184491e2-3206-4c7c-afe6-2097d4653896"
+        },
+        {
+          "title": "لو سألوني",
+          "date": "1993",
+          "mbid": "59bb80a3-c121-45f9-ad03-944461d5cfa3"
+        },
+        {
+          "title": "يا عشير الروح",
+          "date": "1993",
+          "mbid": "11e919fe-f152-4b00-96c0-9e1826c0f2fa"
+        },
+        {
+          "title": "مرقوا مرقوا",
+          "date": "1993",
+          "mbid": "d072eced-fe5e-43fa-8c7c-b7a948770332"
+        },
+        {
+          "title": "دمعه",
+          "date": "1993",
+          "mbid": "078685a2-fb8f-4fe1-be7d-7f0450da5a1f"
+        },
+        {
+          "title": "نجمة الصبح",
+          "date": "1993",
+          "mbid": "acc4f432-2f8c-4ce6-b5c8-405f82c700fc"
+        },
+        {
+          "title": "سحرني",
+          "date": "2003",
+          "mbid": "efe8d6a8-206d-4503-b0ae-6e92e5591f93"
+        },
+        {
+          "title": "لحبيب",
+          "date": "2003",
+          "mbid": "0e55c53c-f1a0-4bf0-a123-941208992669"
+        },
+        {
+          "title": "إضحك للدنيا",
+          "date": "2003",
+          "mbid": "c29c55b7-d9a9-47a8-83f2-e834bfdc7e2b"
+        },
+        {
+          "title": "شو المانع",
+          "date": "2003",
+          "mbid": "10213037-7c7f-45a3-b0ad-da3d4b091cb2"
+        },
+        {
+          "title": "مقهورة عليك",
+          "date": "2003",
+          "mbid": "bab1a3e1-215b-44bf-a859-14cefa5d3d50"
+        },
+        {
+          "title": "هاك الليالي",
+          "date": "2003",
+          "mbid": "397bc5c6-5932-440b-b247-516a29af8119"
+        },
+        {
+          "title": "كتر الدلال",
+          "date": "2003",
+          "mbid": "d1c4a123-b34d-405b-ac44-c255aeadf323"
+        },
+        {
+          "title": "سحرني (موسيقى)",
+          "date": "2003",
+          "mbid": "bf1c3ffa-f635-47d3-8cf2-df4cd8c75732"
+        },
+        {
+          "title": "بهواك",
+          "date": "2004",
+          "mbid": "2e18f8d0-4ce8-4c3b-92b6-b74259637e0c"
+        },
+        {
+          "title": "شو كنت تقللي",
+          "date": "2004",
+          "mbid": "df705b9d-a370-4cb1-abe1-4d761bf10c4b"
+        },
+        {
+          "title": "يا دنيا",
+          "date": "2004",
+          "mbid": "6cbc0c58-4833-4c41-bf98-2f4a66868b78"
+        },
+        {
+          "title": "عرفتْ إختار",
+          "date": "2004",
+          "mbid": "abc1de0f-580f-4a31-bdf4-c209e86a6c94"
+        },
+        {
+          "title": "شو مغَيَّره",
+          "date": "2004",
+          "mbid": "92afe38f-c4ee-409c-8e2f-8a691d06572b"
+        },
+        {
+          "title": "أخرا دوا",
+          "date": "2004",
+          "mbid": "a590c89d-80cb-44d2-a853-3dcfa503885c"
+        },
+        {
+          "title": "ليلةْ ما كان ماشي",
+          "date": "2004",
+          "mbid": "8dab5f23-73f2-4cd9-bf00-db59e815f65b"
+        },
+        {
+          "title": "ليش مغرب",
+          "date": "2004",
+          "mbid": "df791ffc-c797-4f9b-a341-201dfa308a8d"
+        },
+        {
+          "title": "Akher Dawa",
+          "date": "2004",
+          "mbid": "4e03fd4d-32ea-48e2-ad36-9801df9a06e9"
+        },
+        {
+          "title": "قمر العشاق",
+          "date": "2017-05-19",
+          "mbid": "4db0a061-12de-4c2e-958d-f3fedd7a8859"
+        },
+        {
+          "title": "آه من الغرام",
+          "date": "2017-05-19",
+          "mbid": "96a78d62-2e11-45ef-bfe1-953b5d8d35bc"
+        }
+      ],
+      "mbid": "2674597f-6c40-47cc-b980-67f94725f7a7",
+      "wikidata": "https://www.wikidata.org/wiki/Q1197287",
+      "verified": true
+    },
+    {
+      "id": "fairuz",
+      "nameAr": "فيروز",
+      "nameEn": "Fairuz",
+      "aliases": [
+        "Fairouz",
+        "Fayrouz"
+      ],
+      "country": "Lebanon",
+      "yemen": false,
+      "genres": [
+        "music of Lebanon"
+      ],
+      "styles": [],
+      "bioEn": "Nouhad Wadie Haddad, known professionally as Fairuz, is a Lebanese singer. She is widely considered an iconic vocalist and one of the most celebrated singers in the Arab world, as well as a symbol of modern Lebanon. She is popularly known as \"The Bird of the East\", \"The Cedar of Lebanon\", \"The Moon's Neighbor\", \"The Voice of Lebanon\", and \"Our Ambassador to the Stars\", among others.",
+      "bioAr": "نُهاد وديع حداد وتعرف باسمها الفنّي فَيروز ، مطربة ومغنية وممثلة لبنانية. تعد من أقدم فنّاني العالم ومن الجيل الذهبي للمسرح والموسيقى في لبنان ومن أشهر الأصوات العربية، لاقت أعمالها الفنية رواجًا واسعًا في العالم العربي والغربي، لُقبت في لبنان بـ «العمود السابع لبعلبك».",
+      "bioSource": "https://en.wikipedia.org/wiki/Fairuz",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fairuz_1971.jpg/330px-Fairuz_1971.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Fairuz",
+      "website": "http://www.fairouz.com",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/FayrouzOfficial"
+        }
+      ],
+      "listen": [
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Houmoumn Al Hob",
+          "date": "2000",
+          "mbid": "01d6bfca-0509-4cbc-b578-af1de751fbcd"
+        },
+        {
+          "title": "Ma'akoum = معكم",
+          "date": "1997",
+          "mbid": "0671eee2-c667-4529-ba2c-6c8d25c2974e"
+        },
+        {
+          "title": "Konna Netlaka",
+          "date": "2018-07-26",
+          "mbid": "0f86413b-d9cf-4fd7-b741-530f5a14eac7"
+        },
+        {
+          "title": "Jerusalem in My Heart",
+          "date": "1971",
+          "mbid": "1351e453-d49b-4e46-b73d-c6d7eb49da9b"
+        },
+        {
+          "title": "Mish Kayan Hayk Tkoun",
+          "date": "2000",
+          "mbid": "17a5c267-edb6-48ad-b622-4f8d4b17c914"
+        },
+        {
+          "title": "Chante Zaki Nassif",
+          "date": "",
+          "mbid": "17bb8298-086e-4b00-8109-c7c55b2da099"
+        },
+        {
+          "title": "Maïs El Rim = ميس الريم",
+          "date": "1995",
+          "mbid": "18d7c550-e196-47b6-8325-2489da4a531e"
+        },
+        {
+          "title": "Ayam Fakhr El Din (From “Ayam Fakhr El Din”)",
+          "date": "1966-01-01",
+          "mbid": "19131c5c-70e1-4ff3-a744-d504e2ceed72"
+        },
+        {
+          "title": "Mais El Rim - Highlights - Piccadilly 1975",
+          "date": "2017",
+          "mbid": "193ca654-b3d3-4b2e-bc75-3863fbcc456c"
+        },
+        {
+          "title": "Loulou - The Complete Musical Play",
+          "date": "1995",
+          "mbid": "1a0f9c66-256f-4d42-8802-250bbb5163bb"
+        },
+        {
+          "title": "Highlights from Jibal As‐Sawan",
+          "date": "",
+          "mbid": "1b4e7098-d50a-4d07-b809-7d8fde1cb332"
+        },
+        {
+          "title": "Andalusseyat",
+          "date": "1966-01-01",
+          "mbid": "1c93ea07-22d7-41fa-9b31-5bc05b0b3c4d"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Houmoum al hob",
+          "date": "2000",
+          "mbid": "12b9d50d-76d6-42e8-8edc-e5aeb7d7b6ad"
+        },
+        {
+          "title": "Laeb Al Rishah",
+          "date": "2000",
+          "mbid": "1e5ee553-4b66-47b8-9d5c-c85d8ac742f9"
+        },
+        {
+          "title": "La Yadoum Igtirabi",
+          "date": "2000",
+          "mbid": "c8d08355-01fb-45bd-9615-38e06eeefd20"
+        },
+        {
+          "title": "Asfoura Al Shajan",
+          "date": "2000",
+          "mbid": "2455ed08-8731-4c52-86a7-7b461132393b"
+        },
+        {
+          "title": "Marj Al Sundus",
+          "date": "2000",
+          "mbid": "c0f86eae-a8f3-4168-951e-b6820282da81"
+        },
+        {
+          "title": "Shamss Al Atfal",
+          "date": "2000",
+          "mbid": "1500678f-7bad-4de0-b01e-919230dc1b98"
+        },
+        {
+          "title": "Am Yelaboo Al Wolad",
+          "date": "2000",
+          "mbid": "9c500078-bde5-4215-b90e-eaf88ed860a6"
+        },
+        {
+          "title": "Badi Khaburkon",
+          "date": "2000",
+          "mbid": "4762904f-edbd-44ed-8a76-cc58ecc7ee5e"
+        },
+        {
+          "title": "Oumn",
+          "date": "2000",
+          "mbid": "885fb165-dc0e-4013-b205-fffc952e0284"
+        },
+        {
+          "title": "La Meen Al Haida",
+          "date": "2000",
+          "mbid": "26d03409-27fc-442a-9ce6-c217ea462442"
+        },
+        {
+          "title": "Aiam Al Eid",
+          "date": "2000",
+          "mbid": "c78a9232-5d83-4a4a-9113-13cc38063fb8"
+        },
+        {
+          "title": "Beirut Hal Zarafat = بيروت هل ذرفت",
+          "date": "1997",
+          "mbid": "6eb50c9a-6eb2-4148-9501-eb4d01a434a4"
+        },
+        {
+          "title": "Ya Mina El Habayeb = يامينا الحبايب",
+          "date": "1997",
+          "mbid": "6ae58a51-6e88-464e-8570-184356767487"
+        },
+        {
+          "title": "Amman = عمان أو هذا الضحى",
+          "date": "1997",
+          "mbid": "1bf76980-f29d-40dc-a86c-8baf6bf0a557"
+        },
+        {
+          "title": "Al Kuwait = الكويت",
+          "date": "1997",
+          "mbid": "39f634d8-3040-4f28-abb7-191be277f922"
+        },
+        {
+          "title": "Hamaltu Beirut = حملت بيروت",
+          "date": "1997",
+          "mbid": "b1511cc9-1189-4569-8677-055e91a16795"
+        },
+        {
+          "title": "Misr Adat = مصر عادت",
+          "date": "1997",
+          "mbid": "aac77acb-c2b9-4ac7-8419-37c52a199501"
+        },
+        {
+          "title": "Bagdad Wal Chourra = بغداد والشعراء",
+          "date": "1997",
+          "mbid": "96d76e9b-f127-4799-8a4f-0fb073209e6d"
+        },
+        {
+          "title": "Konna Netlaka",
+          "date": "2018-07-26",
+          "mbid": "0ce1e9dd-a63d-4f18-b67d-64fc1648335b"
+        },
+        {
+          "title": "Baadak Ala Bali",
+          "date": "2018-07-26",
+          "mbid": "1c5a4a2c-e497-4206-9435-43da72094ab9"
+        },
+        {
+          "title": "Katabna Ou Ma Katabna",
+          "date": "2018-07-26",
+          "mbid": "5a6c6061-6228-4d44-8035-10eb6a20864c"
+        },
+        {
+          "title": "Waady Elak",
+          "date": "2018-07-26",
+          "mbid": "84293473-50e2-4262-ba38-d034b8a61c85"
+        },
+        {
+          "title": "عابالي يا قمر (دبكه)",
+          "date": "2018-07-26",
+          "mbid": "6a31056d-4479-4c1d-a094-b1441907280c"
+        },
+        {
+          "title": "Saal El Helw",
+          "date": "2018-07-26",
+          "mbid": "03aba467-0969-4e96-a77b-48cf21074a66"
+        },
+        {
+          "title": "Sana an Sana",
+          "date": "2018-07-26",
+          "mbid": "f801c462-5565-4f10-bceb-94376d96b850"
+        },
+        {
+          "title": "Kanou Ya Habiby",
+          "date": "2018-07-26",
+          "mbid": "adec6b3c-0089-4890-9796-c10862781092"
+        },
+        {
+          "title": "Regeat Laialy Zamaan",
+          "date": "2018-07-26",
+          "mbid": "2a264071-4ae1-49e8-9e6e-d0a497ba4829"
+        },
+        {
+          "title": "Sanarjiou",
+          "date": "2005-11",
+          "mbid": "14aca5b1-a593-4160-8000-c9b03149741b"
+        },
+        {
+          "title": "Ya Roubou'a bIladi",
+          "date": "2005-11",
+          "mbid": "7bdf36a2-22c6-47b9-b1f9-4c49d3fbbd72"
+        },
+        {
+          "title": "Zahrat El Mada'en",
+          "date": "2005-11",
+          "mbid": "b51d43c7-2019-4302-85f1-a5a5bb85b098"
+        },
+        {
+          "title": "E: Kods Al Atika",
+          "date": "2005-11",
+          "mbid": "3216dad2-efd2-4a1c-9aa8-d4fb4ed14963"
+        },
+        {
+          "title": "Sayfon Fal Youch'har",
+          "date": "2005-11",
+          "mbid": "b1d7e705-fe0a-49aa-b418-540da4815862"
+        },
+        {
+          "title": "Ghaba Naharon",
+          "date": "2005-11",
+          "mbid": "ed17b9e7-f01c-4a6a-ba23-fae839c95237"
+        },
+        {
+          "title": "Yaffa",
+          "date": "2005-11",
+          "mbid": "b58ea786-1d62-45e7-895e-c2d49f0faa4f"
+        },
+        {
+          "title": "Bissan",
+          "date": "2005-11",
+          "mbid": "ba89d9c1-03c7-4b49-ab76-c0ebbde9c07e"
+        },
+        {
+          "title": "Sanarijou",
+          "date": "2005-11",
+          "mbid": "4877964e-8511-428f-80fa-07a9930440ad"
+        },
+        {
+          "title": "Sayfon Fal Youch'ar",
+          "date": "2005-11",
+          "mbid": "69641220-d9a7-4a27-a2b0-463a54bf12d1"
+        },
+        {
+          "title": "Sallimleh Alayh",
+          "date": "2000",
+          "mbid": "e899b3ab-5caa-44a9-b2dc-c0722dd182a0"
+        },
+        {
+          "title": "Ja'at Mua'zzibatih",
+          "date": "2000",
+          "mbid": "c96dc8ea-2328-4ba5-8624-cf90719391d3"
+        },
+        {
+          "title": "Dak Khilkeh",
+          "date": "2000",
+          "mbid": "90d37d13-39a9-4c80-95c1-e2050b9e5f9c"
+        }
+      ],
+      "mbid": "338bbb53-5b96-447a-9444-8906844a0790",
+      "wikidata": "https://www.wikidata.org/wiki/Q3247658",
+      "verified": true
+    },
+    {
+      "id": "kadim-al-sahir",
+      "nameAr": "كاظم الساهر",
+      "nameEn": "Kadim Al Sahir",
+      "aliases": [
+        "Kazem Al Saher"
+      ],
+      "country": "Iraq",
+      "yemen": false,
+      "genres": [
+        "crossover",
+        "Arabic music",
+        "music of Iraq",
+        "Khaliji"
+      ],
+      "styles": [],
+      "bioEn": "Kadim Jabbar Ibrahim Al Samarrai, better known by his stage name Kadim Al Sahir, is an Iraqi singer and composer. Dubbed \"The Caesar\", he has earned numerous local, regional, and international awards. One of the most famous singers in the Arab world, Al-Sahir has sold more than 100 million albums and written more than 40 hit songs, including \"Ana Wa Layla\", \"Salamtak Men Al Ah\" and \"La Titnahad\".",
+      "bioAr": "كاظم الساهر هو مغني وملحن عراقي يحمل الجنسيتين الكندية والقطرية، اشتهر بلقب القيصر، ويُعد من أنجح وأشهر المغنين في الوطن العربي. باع أكثر من 100 مليون ألبوم، وقدم أكثر من 40 أغنية ناجحة، نال من خلالها العديد من الجوائز المحلية والإقليمية والدولية. ويُعرف الساهر بأدائه لأغانيه باللغة العربية الفصحى، وبأسلوبه المميز في التنقل بين المقامات الموسيقية، وهو ما جعله متفرّدًا في الساحة الفنية. وبالإضافة إلى صوته وأدائه، يُعد ملحنًا بارعًا، حيث يقوم بتلحين معظم أغانيه بنفسه، ما يعكس بصمته الخاصة في كل عمل يقدّمه.",
+      "bioSource": "https://en.wikipedia.org/wiki/Kadim_Al_Sahir",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kadim_Al_Sahir_-_Photo_Khalid_Al-Busaidi.jpg/330px-Kadim_Al_Sahir_-_Photo_Khalid_Al-Busaidi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Kadim_Al_Sahir",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/KadimAlSahirORG"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/kadimalsahirofficial"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/KadimAlSahir"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCU-PNFiD-ro6F6kXhnE5IAg"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/5nq3SGUeUPIkj72Sa9xkFt"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/2ECdRWyoowJaCHr4umXVGE"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/14863036"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Al Aziz",
+          "date": "1990",
+          "mbid": "0efecbfd-3cdd-4550-8366-8b55c74a52c0"
+        },
+        {
+          "title": "لا يا صديقي",
+          "date": "1990",
+          "mbid": "1b4f1491-1f6a-4e43-8b52-18b9a6d142fc"
+        },
+        {
+          "title": "الرسم بالكلمات",
+          "date": "2009-10-14",
+          "mbid": "247d4041-f9e5-420f-b659-4f475f213c1b"
+        },
+        {
+          "title": "sa3ba alaya",
+          "date": "",
+          "mbid": "258100cf-32ec-354d-951c-da32b2a16252"
+        },
+        {
+          "title": "سلامتك من الآه",
+          "date": "1993-10-01",
+          "mbid": "266cae34-d544-411c-ab82-d57f31d69195"
+        },
+        {
+          "title": "La Tazedeh Lawaah",
+          "date": "2011-02-09",
+          "mbid": "366489f7-1a00-4230-bb42-248272257834"
+        },
+        {
+          "title": "Ila Tilmitha",
+          "date": "2012-01-01",
+          "mbid": "5064687d-63a7-301e-a23c-a0be8c44e7bf"
+        },
+        {
+          "title": "أنا وليلى",
+          "date": "1997-11-28",
+          "mbid": "648fa1eb-0ea7-475b-a844-5b248c02d9d3"
+        },
+        {
+          "title": "Baad Elhob",
+          "date": "2003",
+          "mbid": "86d8697f-75f6-4cdc-b408-de18c1e2c47a"
+        },
+        {
+          "title": "قصة حبيبين",
+          "date": "2002",
+          "mbid": "8965bb0d-3131-4a03-882b-dc3f00250a44"
+        },
+        {
+          "title": "Yawmyat Rajoul Mahzoom",
+          "date": "2007-01-01",
+          "mbid": "89f77a15-f8c5-3c9c-bbbf-64efdfe1b8c5"
+        },
+        {
+          "title": "Sowar",
+          "date": "2008-09-29",
+          "mbid": "8aa749c4-f76e-4cdb-8a00-b83b1b3f2710"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Al-Aziz",
+          "date": "1990",
+          "mbid": "6db57e69-ef45-4049-aafa-78e6fdc186b9"
+        },
+        {
+          "title": "Sellamtak Beed Allah",
+          "date": "1990",
+          "mbid": "acad725d-36b1-49c0-a3bb-de07badaff3e"
+        },
+        {
+          "title": "Maysoor Al Haal",
+          "date": "1990",
+          "mbid": "9f0223d1-b2e7-4eae-8080-702b3323a2a7"
+        },
+        {
+          "title": "Tarik Ahli",
+          "date": "1990",
+          "mbid": "933419ab-9f66-4fb6-b2f9-7440a27dc256"
+        },
+        {
+          "title": "Dhihikta Bi'yoona",
+          "date": "1990",
+          "mbid": "5ecaa30d-8dc8-4a63-8790-f9508666d6a7"
+        },
+        {
+          "title": "Mawwal Ya Saher",
+          "date": "1990",
+          "mbid": "64e80a86-4488-40d3-9999-e9d711594c51"
+        },
+        {
+          "title": "Metharrik Ihsasi",
+          "date": "1990",
+          "mbid": "927dc25c-78ef-4a40-aa6f-7f8cdaf7d9a6"
+        },
+        {
+          "title": "La Ya Sadiki",
+          "date": "1990",
+          "mbid": "03270f09-e7f3-4c9f-9dcc-19939f0d6926"
+        },
+        {
+          "title": "Ya Rayeh Lebanan",
+          "date": "1990",
+          "mbid": "dff06911-1647-48cd-98ac-aa64c42b5a75"
+        },
+        {
+          "title": "حبيبتي",
+          "date": "2009-10-14",
+          "mbid": "90fa811c-96bc-47c6-b86c-22e95170ecfe"
+        },
+        {
+          "title": "المحكمة",
+          "date": "2009-10-14",
+          "mbid": "abfb3b01-147d-4364-ab1a-1951793394d7"
+        },
+        {
+          "title": "وين الباب",
+          "date": "2009-10-14",
+          "mbid": "ac90b2f9-4397-44ca-9004-6c61bd43638c"
+        },
+        {
+          "title": "دلالك زايد",
+          "date": "2009-10-14",
+          "mbid": "2afa0227-9073-4142-96ac-71bd15f9b5c9"
+        },
+        {
+          "title": "مو طبيعي",
+          "date": "2009-10-14",
+          "mbid": "48e17f3a-4edf-41fa-8913-931277b9318e"
+        },
+        {
+          "title": "إسكت",
+          "date": "2009-10-14",
+          "mbid": "04df5e45-bad0-4024-a517-76bb0649d984"
+        },
+        {
+          "title": "الجريدة",
+          "date": "2009-10-14",
+          "mbid": "2cdab763-0de5-46e7-ad1b-13cd36ad243e"
+        },
+        {
+          "title": "نمت وحلمت",
+          "date": "2009-10-14",
+          "mbid": "c1e72e0d-5c8f-4b12-a374-7f170515a8e8"
+        },
+        {
+          "title": "الرسم بالكلمات",
+          "date": "2009-10-14",
+          "mbid": "7fe3bc0c-44dc-433c-9735-aa49eaa439e9"
+        },
+        {
+          "title": "el helwa",
+          "date": "",
+          "mbid": "4e1c1d9f-04df-49bb-9653-d2f693f62652"
+        },
+        {
+          "title": "areed a3zef",
+          "date": "",
+          "mbid": "de091c63-76ea-4f5f-b49a-51c0fad9ad9a"
+        },
+        {
+          "title": "ma bee shay",
+          "date": "",
+          "mbid": "c930e3d2-7485-40f6-ac50-8d58df12e686"
+        },
+        {
+          "title": "atahamal akhtaoke",
+          "date": "",
+          "mbid": "0145633f-8553-4e7a-b953-3ee83d4dd3c5"
+        },
+        {
+          "title": "saa3ba alaya",
+          "date": "",
+          "mbid": "7e582fc0-d8b4-4f05-866a-1f8542dff9a9"
+        },
+        {
+          "title": "sawy alqetar",
+          "date": "",
+          "mbid": "f090fc0e-8570-4a9b-9eeb-8b980cf86003"
+        },
+        {
+          "title": "Salamtak Min El Aah",
+          "date": "",
+          "mbid": "079508d6-72b4-44b3-9f4e-c85296f6e1c8"
+        },
+        {
+          "title": "Nezlet Lel Baher",
+          "date": "",
+          "mbid": "8d5d26e3-8aad-4271-85a3-4d8e6e7a3e71"
+        },
+        {
+          "title": "Ya Leil",
+          "date": "",
+          "mbid": "f2dc01ea-a7eb-43f5-b5a3-db405f23cd1e"
+        },
+        {
+          "title": "Mawal",
+          "date": "",
+          "mbid": "e749e9ea-115a-48b9-88e0-014ad85ddd16"
+        },
+        {
+          "title": "Minen Ajib Ihsas",
+          "date": "",
+          "mbid": "15947cc9-a1db-4bcd-8b7d-a1c9416479f8"
+        },
+        {
+          "title": "Kasidat Ikhtary",
+          "date": "",
+          "mbid": "7a0df8bb-f690-48d0-b3b5-57c4d1b9109e"
+        },
+        {
+          "title": "Ya Sakinat Hina",
+          "date": "",
+          "mbid": "6010643f-7abd-4e5c-9eb6-d98f3e1c9255"
+        },
+        {
+          "title": "Mawal Ya El Hbayyib Ya Ya Bou",
+          "date": "",
+          "mbid": "c44705a7-8ee0-4079-9a51-de089e4e440c"
+        },
+        {
+          "title": "Yodrab El Hob",
+          "date": "",
+          "mbid": "e9b51dd0-6b85-425b-8457-e8edfb9a3779"
+        },
+        {
+          "title": "Ma Ahbak Baad",
+          "date": "2011-02-09",
+          "mbid": "159c1365-dfb1-4dcd-9676-16fba30bee9b"
+        },
+        {
+          "title": "Marat Al Baly",
+          "date": "2011-02-09",
+          "mbid": "c4a030cc-d53a-45a2-a1d1-4c83f85388a3"
+        },
+        {
+          "title": "Dalaa El Nesaa",
+          "date": "2011-02-09",
+          "mbid": "1356f212-c710-460b-b7f1-d3c6cc97be5a"
+        },
+        {
+          "title": "Jalesah Wahdak",
+          "date": "2011-02-09",
+          "mbid": "192dd33e-2da5-4b87-be94-b6558aa6820f"
+        },
+        {
+          "title": "Athare El Zaal",
+          "date": "2011-02-09",
+          "mbid": "1b7267da-cf1d-4024-aa8b-276e99e808b9"
+        },
+        {
+          "title": "El Sour",
+          "date": "2011-02-09",
+          "mbid": "b807a65c-35b8-4763-89ae-f46ecb3803d6"
+        },
+        {
+          "title": "La Tazedeh Lawaah",
+          "date": "2011-02-09",
+          "mbid": "10e65430-2cd4-4ea6-9821-b4c0d0ca223c"
+        }
+      ],
+      "mbid": "0b91b4e7-5c97-4446-8665-27fe6026cd2f",
+      "wikidata": "https://www.wikidata.org/wiki/Q1362223",
+      "verified": true
+    },
+    {
+      "id": "george-wassouf",
+      "nameAr": "جورج وسوف",
+      "nameEn": "George Wassouf",
+      "aliases": [],
+      "country": "Syria",
+      "yemen": false,
+      "genres": [
+        "Arabic music"
+      ],
+      "styles": [],
+      "bioEn": "George Wassouf is a Syrian singer. In a career spanning more than four decades, he has released more than 30 albums, with a significantly large audience of fans throughout the Arab world. Dubbed Sultan El-Tarab, he is one of the most successful Arab singers selling over 60 million records worldwide.",
+      "bioAr": "جورج وديع وسوف هو مطرب ومغني سوري. أصدر أكثر من 30 ألبومًا في مسيرته الفنية التي امتدَّت لأكثر من أربعة عقود، وله جمهور كبير من المعجبين في جميع أنحاء العالم العربي. اشتَهَر بلقب سُلطان الطرب، وهو أحد أنجح المطربين العرب؛ إذ باع أكثر من 60 مليون تسجيل في جميع أنحاء العالم.",
+      "bioSource": "https://en.wikipedia.org/wiki/George_Wassouf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/George_Wassouf.jpg/330px-George_Wassouf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/George_Wassouf",
+      "website": "https://wassoufworld.com/",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/wassouf"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/officialwassouf"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/OfficialWassouf"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCRpVH-l7I3j1bZHcrW1c-dg"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "albums": [
+        {
+          "title": "الهوى سلطان",
+          "date": "1988",
+          "mbid": "05692ad9-3361-3705-812c-210dec2143cd"
+        },
+        {
+          "title": "Asma’e Lah Al Hosna",
+          "date": "2018-01-01",
+          "mbid": "0d8169c4-d449-4867-9c95-18089399a7ec"
+        },
+        {
+          "title": "Salaf W Dayn",
+          "date": "2003-10-28",
+          "mbid": "1e1bf05c-709f-3271-a3d2-441a8586a40e"
+        },
+        {
+          "title": "Dul Mush Habayeb = دول مش حبايب",
+          "date": "2000",
+          "mbid": "3a5197a2-18dc-462d-be72-67f092b19896"
+        },
+        {
+          "title": "Kalam el-Nas",
+          "date": "1991",
+          "mbid": "4ff914e3-a2dd-38ab-8d3a-124d45492734"
+        },
+        {
+          "title": "Ouwidini",
+          "date": "1992",
+          "mbid": "548709a5-0236-4302-8634-21bda1d6f1dc"
+        },
+        {
+          "title": "Et2akhart Kteer",
+          "date": "2004",
+          "mbid": "56a5a9f9-22e5-3dc0-a7d2-01eea94dfd57"
+        },
+        {
+          "title": "Tabeeb Garah",
+          "date": "1999",
+          "mbid": "5a7a528d-f22c-377e-9571-b4da2496151a"
+        },
+        {
+          "title": "Inta Gheirhom",
+          "date": "2002",
+          "mbid": "5d83818d-e4e8-3eba-a3be-0b012a0869e0"
+        },
+        {
+          "title": "Heya El Ayam",
+          "date": "2006",
+          "mbid": "6073512c-ca75-3389-b6dd-42a8ce2a62ad"
+        },
+        {
+          "title": "Lisa El Dounia Bikheer = لسه الدنيا بخير",
+          "date": "1997",
+          "mbid": "6488e753-d7d0-47b3-8f64-e1e64a9a9ee8"
+        },
+        {
+          "title": "Ouwidine",
+          "date": "",
+          "mbid": "786b9b98-fab8-4cb9-8f7b-675f1fcfa3c5"
+        }
+      ],
+      "songs": [
+        {
+          "title": "الهوى سلطان",
+          "date": "1988",
+          "mbid": "ef9395a2-844d-4c9e-b97a-0e8aee846d98"
+        },
+        {
+          "title": "حلف القمر",
+          "date": "1988",
+          "mbid": "409fbfbb-52f3-4387-ab34-f270266f3fed"
+        },
+        {
+          "title": "قللي ولا تخبيش",
+          "date": "1988",
+          "mbid": "e9033649-65d8-428b-83bc-188f74440870"
+        },
+        {
+          "title": "روحي يا نسمة",
+          "date": "1988",
+          "mbid": "4cea7f92-f152-45d8-835a-276a4a4fb91c"
+        },
+        {
+          "title": "الحبايب",
+          "date": "1988",
+          "mbid": "bc1e3c45-e7d4-44f7-9976-86bc1c36a228"
+        },
+        {
+          "title": "Arouh Li Min",
+          "date": "2018-01-01",
+          "mbid": "d2ffcc81-b5ad-4ffc-9a16-b5f77548c5d1"
+        },
+        {
+          "title": "Asma’e Lah Al Hosna",
+          "date": "2018-01-01",
+          "mbid": "166061d2-66d0-434d-9852-16d5af3bf508"
+        },
+        {
+          "title": "Foug Nakhel",
+          "date": "2018-01-01",
+          "mbid": "d60b9c24-38fb-448a-ba9d-547835a84151"
+        },
+        {
+          "title": "Fi Lgawe Ghame",
+          "date": "2018-01-01",
+          "mbid": "da51311c-f485-45a7-ad67-b288503a91e6"
+        },
+        {
+          "title": "Salaf w Dayn",
+          "date": "2003-10-28",
+          "mbid": "f429d929-8bbf-4ffd-b3d8-6f0c4b0c6ab8"
+        },
+        {
+          "title": "Saber W Radi",
+          "date": "2003-10-28",
+          "mbid": "a9fcdf7b-78f5-4e1e-bf9a-1793e55d832b"
+        },
+        {
+          "title": "Iskot",
+          "date": "2003-10-28",
+          "mbid": "02c31a2d-4238-4aea-ba62-795a9875b583"
+        },
+        {
+          "title": "Betfakkar Bel Nass",
+          "date": "2003-10-28",
+          "mbid": "8187da0e-1d04-4d53-9862-c9168c90a205"
+        },
+        {
+          "title": "Maarafchi",
+          "date": "2003-10-28",
+          "mbid": "ce2df1eb-3104-4199-be0e-416ebb82a740"
+        },
+        {
+          "title": "Ana Radi Bel Sahar = أنا راضي بالسهر",
+          "date": "2000",
+          "mbid": "4199ade6-b293-41c8-a49a-2ecfd7485e97"
+        },
+        {
+          "title": "Kedah Kifayah = كده كفاية",
+          "date": "2000",
+          "mbid": "040d834c-60ff-4b63-9c38-e5cdbdcf5697"
+        },
+        {
+          "title": "Ma Teoulou Leeh = ما تقولو ليه",
+          "date": "2000",
+          "mbid": "f8eeb82c-719d-4242-a087-42b604084981"
+        },
+        {
+          "title": "Dul Mush Habayeb = دول مش حبايب",
+          "date": "2000",
+          "mbid": "803dc996-a4a8-46dc-90c1-3194ca9484fc"
+        },
+        {
+          "title": "Leabet Nazar = لعبة نظر",
+          "date": "2000",
+          "mbid": "15593b7c-e913-4779-b0f0-c24c29f29074"
+        },
+        {
+          "title": "Osha'a Akher Zaman = عشاق اخر زمن",
+          "date": "2000",
+          "mbid": "1808826c-bd8b-435e-8de6-309ecc67fb64"
+        },
+        {
+          "title": "Ya Bayya'een el-Hawa",
+          "date": "1991",
+          "mbid": "21bc3253-120b-4000-976c-ca28e45b6e04"
+        },
+        {
+          "title": "Habibi Keda",
+          "date": "1991",
+          "mbid": "442f0d44-4713-4244-b76c-22f7db2df91b"
+        },
+        {
+          "title": "Law Yewa'edni el-Hawa",
+          "date": "1991",
+          "mbid": "0ffc9a3c-ad1d-4157-b448-2a0908b3f734"
+        },
+        {
+          "title": "Harimna Min Unsak",
+          "date": "1991",
+          "mbid": "cbb5dd01-eb19-4ddb-84ce-2f54d73d4a31"
+        },
+        {
+          "title": "el-Hub el-Awwalani",
+          "date": "1991",
+          "mbid": "8717a711-758b-49e1-8cdb-52a51abce990"
+        },
+        {
+          "title": "Kalam el-Nas",
+          "date": "1991",
+          "mbid": "062e74d7-3092-4d11-be5e-fc838185b5c2"
+        },
+        {
+          "title": "Ouwidini",
+          "date": "1992",
+          "mbid": "4139840c-848f-4d54-9a9b-7be9e73981a3"
+        },
+        {
+          "title": "Law Naweit",
+          "date": "1992",
+          "mbid": "b19e6d84-d783-49b5-8a14-6e7619a5eeff"
+        },
+        {
+          "title": "Rouh Al Rouh",
+          "date": "1992",
+          "mbid": "22171a62-2ef1-4492-a559-18bfb8a06c8b"
+        },
+        {
+          "title": "Bta'atebni 'Ala Kilmat",
+          "date": "1992",
+          "mbid": "90321c6c-f9a0-4910-a78a-a3d6a0b1c47a"
+        },
+        {
+          "title": "Garahouna",
+          "date": "1992",
+          "mbid": "7e258777-cd22-4239-8a8b-b2b211da87c2"
+        },
+        {
+          "title": "Isma'ini Bikilmat",
+          "date": "1992",
+          "mbid": "3327c553-01cb-4a61-8bb5-69a386f5d3ed"
+        },
+        {
+          "title": "Salamtak Biyed Allah",
+          "date": "1992",
+          "mbid": "8beac6a6-dd67-453e-b9fe-e9654d5ecfe1"
+        },
+        {
+          "title": "2ool Kilmitein",
+          "date": "2004",
+          "mbid": "255da590-6cd1-4ff7-bb99-23ded45a5235"
+        },
+        {
+          "title": "Sibhom",
+          "date": "2004",
+          "mbid": "666706e0-8b3f-4b5e-983d-170748c7760d"
+        },
+        {
+          "title": "Et2akhart Ktir",
+          "date": "2004",
+          "mbid": "54a9e88b-360c-48ed-a164-236c07fd4b7b"
+        },
+        {
+          "title": "Khadny El 7anin",
+          "date": "2004",
+          "mbid": "7929219a-c734-4580-99af-a1577e728cd9"
+        },
+        {
+          "title": "Sihirt El Leil",
+          "date": "2004",
+          "mbid": "28ff5717-2304-49da-a939-f64d777ccd99"
+        },
+        {
+          "title": "Tabeeb Garah",
+          "date": "1999",
+          "mbid": "24103869-d26c-4629-a456-0a2f0786dfbd"
+        },
+        {
+          "title": "Ana Asif",
+          "date": "1999",
+          "mbid": "042933d8-f6cf-46e6-a9c0-cb7d6510efb0"
+        }
+      ],
+      "mbid": "67541793-5159-4f0d-a3a0-6b96163933f3",
+      "wikidata": "https://www.wikidata.org/wiki/Q1009512",
+      "verified": true
+    },
+    {
+      "id": "abu-bakr-salem",
+      "nameAr": "أبو بكر سالم",
+      "nameEn": "Abu Bakr Salem",
+      "aliases": [
+        "Abu Baker Salem"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [
+        "sanaani",
+        "hadhrami"
+      ],
+      "bioEn": "Abu Bakr Salem Balfaqih, also known by his kunya Abu Aseel, was a Yemeni-Saudi singer, poet, and composer of Hadhrami origins. He was nicknamed \"The Father of Khaliji Music\" and \"The one with the golden larynx\". Abu Bakr is known in the Arab world for his unique voice.",
+      "bioAr": "أبو بكر سالم بلفقيه مغني وأديب وشاعر وملحن من أشهر الفنانين العرب على الساحة الخليجية والعربية ويلقب بـ«أبو الغناء الخليجي». أجاد ألوان الغناء العربية المختلفة؛ فقد برز في الغناء الحضرمي الذي بدأ يمارسه منذ بداياته الفنية، وأيضاً الغناء الخليجي، كما قدّم عدد من الأغاني باللون الصنعاني منها: ، و ، و ، و (وامغرد)، و ، و ، و ، و (مجروح) و ، بالإضافة إلى القصائد الفصيحة لأبي القاسم الشابي، وأيضًا الحفلات الغنائية في مهرجانات الأغنية العربية المتعددة.",
+      "bioSource": "https://en.wikipedia.org/wiki/Abu_Bakr_Salem",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Abu_Bakr_Salem_%28cropped%29.jpg/330px-Abu_Bakr_Salem_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Abu_Bakr_Salem",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [
+        {
+          "title": "مشوار الأحبة",
+          "date": "2007-04-01",
+          "mbid": "041d54fa-292f-44a4-b351-0531191f6fa6"
+        },
+        {
+          "title": "رقم 27",
+          "date": "1989",
+          "mbid": "0dd74053-63df-4024-89e0-d98ae9b9ef2e"
+        },
+        {
+          "title": "من يقول لك لا؟",
+          "date": "",
+          "mbid": "0dffe843-4e39-4077-871c-a5e06f355401"
+        },
+        {
+          "title": "رقم ١٦",
+          "date": "1989",
+          "mbid": "0f9813eb-bbb6-40bc-a525-a1654949b1ed"
+        },
+        {
+          "title": "جلسة من الذكريات",
+          "date": "2000",
+          "mbid": "0fe14a5b-25b7-4083-905b-f5a61917536b"
+        },
+        {
+          "title": "4",
+          "date": "",
+          "mbid": "11a1ecdf-e473-44e1-aa13-5d147e84de01"
+        },
+        {
+          "title": "دروب مغلقة",
+          "date": "2010",
+          "mbid": "1bc6b1d0-6e60-4a42-b684-bbc2200b3bd6"
+        },
+        {
+          "title": "حفلة دبي 2001",
+          "date": "2001",
+          "mbid": "23584e06-5ffa-4531-8583-17f39abf6cb1"
+        },
+        {
+          "title": "سائرين",
+          "date": "2011",
+          "mbid": "2ac529fb-af15-4fc8-bd7b-c0be0a69ace7"
+        },
+        {
+          "title": "ما يحتاج يا عيسى",
+          "date": "2010",
+          "mbid": "2c638aae-cd63-4d14-969e-b986ef8c438c"
+        },
+        {
+          "title": "رقم ٦",
+          "date": "1989",
+          "mbid": "2de8c618-aece-4929-b97e-98538d2638c1"
+        },
+        {
+          "title": "وآنسيم السحر",
+          "date": "2013",
+          "mbid": "35d37994-c773-424d-be3b-3a9f48487d8b"
+        }
+      ],
+      "songs": [
+        {
+          "title": "سيبو",
+          "date": "2007-04-01",
+          "mbid": "e89d9b90-3a0b-4ec6-b8c3-a4a23e71251a"
+        },
+        {
+          "title": "ما علينا منهم",
+          "date": "2007-04-01",
+          "mbid": "15207385-c873-4d0b-be0f-5b2abd9fbf29"
+        },
+        {
+          "title": "يا صاحبى",
+          "date": "2007-04-01",
+          "mbid": "246b1903-af4f-4c0c-89e0-955ba1f0cdf5"
+        },
+        {
+          "title": "الصبر طيب",
+          "date": "2007-04-01",
+          "mbid": "b6f47f89-43ac-496a-95c7-992350008b5d"
+        },
+        {
+          "title": "سهران ليلى",
+          "date": "2007-04-01",
+          "mbid": "242e2f12-9452-4e6a-9f34-3e96cd14bfd3"
+        },
+        {
+          "title": "الزين يبقى زين",
+          "date": "2007-04-01",
+          "mbid": "617fea0c-f982-4356-971d-efdae1c3c7f5"
+        },
+        {
+          "title": "ياللى ملكت الروح",
+          "date": "2007-04-01",
+          "mbid": "d2fc7f40-4efe-4de1-a646-a4d3bceee627"
+        },
+        {
+          "title": "دون يا قلم",
+          "date": "2007-04-01",
+          "mbid": "4859dd3a-eb78-426b-9c60-f504cd84e2d2"
+        },
+        {
+          "title": "نار بعدك",
+          "date": "1989",
+          "mbid": "0cf464d0-1beb-4c93-84e9-73924f4f9587"
+        },
+        {
+          "title": "ما علينا يا حبيبي",
+          "date": "1989",
+          "mbid": "3d1c2a06-748c-4acd-92d5-5bef6f05309a"
+        },
+        {
+          "title": "تبنا خلاص",
+          "date": "1989",
+          "mbid": "6e51a611-51be-4839-b804-8658da32145c"
+        },
+        {
+          "title": "مشتاق لك",
+          "date": "1989",
+          "mbid": "a2aca44c-d58c-4642-b767-de22ea351bfd"
+        },
+        {
+          "title": "هل اعجبك يوم",
+          "date": "1989",
+          "mbid": "931ed509-776a-408a-b088-9b8e9bb85a1b"
+        },
+        {
+          "title": "مجروح",
+          "date": "1989",
+          "mbid": "034e4057-69bb-47b2-a6ac-881fb96970ae"
+        },
+        {
+          "title": "كتر الله خيرك",
+          "date": "1989",
+          "mbid": "f5072fab-3dee-4bd4-8001-98e98df286c5"
+        },
+        {
+          "title": "اصيل والله اصيل",
+          "date": "1989",
+          "mbid": "ce13a9b5-a64d-4319-ae56-291fde74fed2"
+        },
+        {
+          "title": "عادك صغير",
+          "date": "1989",
+          "mbid": "0f87145e-b112-4fa0-9821-8f2b5aa3d57a"
+        },
+        {
+          "title": "الجبال السود",
+          "date": "1989",
+          "mbid": "5d7ff426-a2be-4a1d-b849-c2d68a403e8f"
+        },
+        {
+          "title": "غيار",
+          "date": "1989",
+          "mbid": "71550d5c-4901-45b5-a61e-c39c009bd90a"
+        },
+        {
+          "title": "شمس الظهيرة",
+          "date": "",
+          "mbid": "eee73569-7776-4272-8eb8-e45db89edd80"
+        },
+        {
+          "title": "لا ذا لا وذية",
+          "date": "",
+          "mbid": "4c08840a-0f76-4991-8c6a-ba0aebe8acec"
+        },
+        {
+          "title": "على إيش",
+          "date": "",
+          "mbid": "e344989f-cd1e-45f3-a568-33e5cdbfe3ad"
+        },
+        {
+          "title": "من يقول لك لا",
+          "date": "",
+          "mbid": "6950c1cf-83ff-4ccf-aa4c-ec1b68d34423"
+        },
+        {
+          "title": "حد دخل في الخط",
+          "date": "",
+          "mbid": "d70895b3-2e75-451b-a865-4bfbc1524d5d"
+        },
+        {
+          "title": "وامغرد في وادي",
+          "date": "1989",
+          "mbid": "cf204c4c-9c09-4464-a0f5-41a2f5bb9f43"
+        },
+        {
+          "title": "ظبي اليمن",
+          "date": "1989",
+          "mbid": "8bca099e-1fc0-4abd-916c-c1033f7ee1d0"
+        },
+        {
+          "title": "عطني الحل",
+          "date": "1989",
+          "mbid": "58d31038-08a4-4976-b3ef-6b9b26cc385a"
+        },
+        {
+          "title": "بدري عليك",
+          "date": "1989",
+          "mbid": "be02179b-f14d-4884-bc16-f4751b5cbacc"
+        },
+        {
+          "title": "في الذي حبهم",
+          "date": "2000",
+          "mbid": "1401541e-905c-47a9-bb3b-85ab3efa0d8a"
+        },
+        {
+          "title": "لان",
+          "date": "2000",
+          "mbid": "72c7ee00-2ec9-44db-8753-a523794eb33d"
+        },
+        {
+          "title": "ليالي الأنس",
+          "date": "2000",
+          "mbid": "971fa4c9-6f79-417b-8f2f-b33efba4012d"
+        },
+        {
+          "title": "يعين الله",
+          "date": "2000",
+          "mbid": "9a6def19-9bfc-426d-ba0d-942dd83fd2ed"
+        },
+        {
+          "title": "فرصة من العمر",
+          "date": "2000",
+          "mbid": "c0ef0741-9683-4dd4-9a01-59b8a26c0ec5"
+        },
+        {
+          "title": "بن هاشم",
+          "date": "2000",
+          "mbid": "22ff4e77-08d3-4bb9-92ac-b32ce9aa8b12"
+        },
+        {
+          "title": "بالغواني",
+          "date": "",
+          "mbid": "211e9d6f-831a-4ae3-8169-c42f376d7e8f"
+        },
+        {
+          "title": "خذ من الهاشمي",
+          "date": "",
+          "mbid": "df2fb7fd-18a0-47f4-9bc2-d41399c3979c"
+        },
+        {
+          "title": "انت ولا أنا",
+          "date": "",
+          "mbid": "888818cb-a21c-4af4-9ee8-34c7265c064e"
+        },
+        {
+          "title": "نوب من جبحين",
+          "date": "",
+          "mbid": "70ad2c77-1154-4484-9b0e-f4ba635539e6"
+        },
+        {
+          "title": "لك البشارة",
+          "date": "",
+          "mbid": "8b031b30-ed69-4eb9-beed-2e3200206b01"
+        },
+        {
+          "title": "نسم القلب",
+          "date": "",
+          "mbid": "aa21735f-824e-45c7-81a5-8512c07816e2"
+        }
+      ],
+      "mbid": "b0b889b4-e694-41ec-9092-e510edd51bc9",
+      "wikidata": "https://www.wikidata.org/wiki/Q12177902",
+      "verified": true
+    },
+    {
+      "id": "ayoub-tarish",
+      "nameAr": "أيوب طارش",
+      "nameEn": "Ayoob Tarish",
+      "aliases": [
+        "Ayoob Tarish"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "Ayoob Tarish resp. Ayub Ṭâreš is a Yemeni singer-songwriter, best known for composing the national anthem of Yemen, which was adopted following the Yemenite reunification.",
+      "bioAr": "أَيُّوب طارِش عَبْسِي فنّان، وملحن، وعازف، وموسيقار يمني شهير، ولد عام 1945م، عرف بأغانيه العاطفية، وأغانيه الوطنية، وهو ملحّن النشيد الوطني للجمهورية اليمنية منذ وحدتها عام 1990م حتى اليوم.",
+      "bioSource": "https://en.wikipedia.org/wiki/Ayoob_Tarish",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCWIic0-d4fRj3hy5xq-0Duw"
+        }
+      ],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q4059062",
+      "verified": true
+    },
+    {
+      "id": "faisal-alawi",
+      "nameAr": "فيصل علوي",
+      "nameEn": "Faisal Alawi",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [
+        "lahji"
+      ],
+      "bioEn": "Faisal Alawi was a Yemeni singer and oudist from Lahej, considered a pioneer of Lahiji music. He was famous for playing the oud, and his fame spread throughout the Arabian Peninsula and the Gulf countries.",
+      "bioAr": "فَيْصَل عَلَوِي مطرب وفنان يمني يعتبر رائدا للأغنية اللحجية. اشتهر بعزف العود ، وذاع صيته في الجزيرة العربية ودول الخليج.",
+      "bioSource": "https://en.wikipedia.org/wiki/Faisal_Alawi",
+      "image": "https://upload.wikimedia.org/wikipedia/ar/b/bc/Faisal_Alawi.jpg?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imageSource": "https://en.wikipedia.org/wiki/Faisal_Alawi",
+      "website": "",
+      "socials": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/fasil_alawi_official"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/Abubasil2010"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCYSPyUtIpmdng6PjB0nfiag"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/2wv5mkVf4F1ZgAVLHD3uSm"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/1778741383"
+        }
+      ],
+      "albums": [
+        {
+          "title": "يا بدر يا غصن",
+          "date": "2000-11-13",
+          "mbid": "5d5f7370-1293-4ad4-997e-08be2fda376b"
+        }
+      ],
+      "songs": [
+        {
+          "title": "اسير الخدود",
+          "date": "2000-11-13",
+          "mbid": "09c906f4-9864-4f2d-86f6-4de6bd96fc19"
+        },
+        {
+          "title": "ايش استوى",
+          "date": "2000-11-13",
+          "mbid": "7e3d55fe-d0df-4a29-beab-2d32e018031a"
+        },
+        {
+          "title": "سير دلا يا مرغدد",
+          "date": "2000-11-13",
+          "mbid": "be4dfc07-10ba-48ab-8573-7addfa277886"
+        },
+        {
+          "title": "طبت يالمظنون",
+          "date": "2000-11-13",
+          "mbid": "cc12c6bc-54f8-4938-b77d-b6ff76764aa9"
+        },
+        {
+          "title": "عاده صغير",
+          "date": "2000-11-13",
+          "mbid": "1c2126fa-fecc-44fa-9257-1c82c7cf2a49"
+        },
+        {
+          "title": "يا بدر يا غصن",
+          "date": "2000-11-13",
+          "mbid": "908cbb9e-f004-433d-ba8e-b6d6a80852b4"
+        },
+        {
+          "title": "يا حبيبي كم شكيت لقلبي",
+          "date": "2000-11-13",
+          "mbid": "2536b53f-1085-427a-bbdd-1fea70727851"
+        }
+      ],
+      "mbid": "94f5b2bb-a50d-43f1-bdf6-8db205550812",
+      "wikidata": "https://www.wikidata.org/wiki/Q12231682",
+      "verified": true
+    },
+    {
+      "id": "mohammed-murshid-naji",
+      "nameAr": "محمد مرشد ناجي",
+      "nameEn": "Mohamed morshed naji",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "محمد مرشد ناجي من مواليد 6 نوفمبر 1929 مطرب وملحن ومؤرخ موسيقي يمني، يعد من أعلام الأغنية اليمنية، ومن أبرز مجدديها، امتدت تجربته الفنية إلى نحو ستة عقود، أسهم خلالها في إثراء وتطوير الأغنية اليمنية، كما شارك في إحياء ونشر التراث الغنائي اليمني الغزير والمتنوع على مستوى اليمن والجزيرة العربية، وعُرف بأداء خاص ومتميز في أغانيه، كما عُرف عنه شغفه بالتراث الغنائي اليمني الذي وثقه بعدد من الإصدارات والمؤلفات القيمة.",
+      "bioSource": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%B1%D8%B4%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A",
+      "image": "https://thumb.wikimedia.org/wikipedia/ar/thumb/1/15/%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%B1%D8%B4%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A.jpg/330px-%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%B1%D8%B4%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A.jpg?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%B1%D8%B4%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [
+        {
+          "title": "المرشدي 98",
+          "date": "1998-01-01",
+          "mbid": "09c42241-f038-430b-9573-a8c506e4eedb"
+        },
+        {
+          "title": "اجمل أغاني المرشدي",
+          "date": "2023-02-11",
+          "mbid": "27fce83e-6476-40b5-a0fa-f17993d07b6a"
+        },
+        {
+          "title": "La Chanson D'Aden - Aden Singing",
+          "date": "2002",
+          "mbid": "fa91f16e-0243-4fe9-8d8e-70420049468b"
+        }
+      ],
+      "songs": [
+        {
+          "title": "اراك طروبا",
+          "date": "1998-01-01",
+          "mbid": "a0a548ab-7636-4c05-8282-0cb7a3bb5335"
+        },
+        {
+          "title": "اهلا بمن سلم",
+          "date": "1998-01-01",
+          "mbid": "705dc11d-f825-477c-b71f-2f281bd45ede"
+        },
+        {
+          "title": "بيني وبينك",
+          "date": "1998-01-01",
+          "mbid": "e8904d70-564c-405c-a9b5-be63fd104309"
+        },
+        {
+          "title": "دار الفلك",
+          "date": "1998-01-01",
+          "mbid": "240ba2ff-99de-4f46-bbc8-4e2d082010ab"
+        },
+        {
+          "title": "عالم سيري",
+          "date": "1998-01-01",
+          "mbid": "81abad24-1e0f-436c-a3d9-04e55ad1afe9"
+        },
+        {
+          "title": "يا ابن الناس حبيتك",
+          "date": "1998-01-01",
+          "mbid": "c65da8ed-5f5f-40fd-ae1a-31bf4b88af40"
+        },
+        {
+          "title": "أجمل هوى",
+          "date": "2023-02-11",
+          "mbid": "32096778-3204-4574-a2fc-621b6a9f212f"
+        },
+        {
+          "title": "أهلا بسيدي",
+          "date": "2023-02-11",
+          "mbid": "490d6571-e75e-4fde-a853-64820126584f"
+        },
+        {
+          "title": "راجع لعش الحب",
+          "date": "2023-02-11",
+          "mbid": "3634075f-e707-47f3-b40f-bd785e6ce1aa"
+        },
+        {
+          "title": "متى أشوفك",
+          "date": "2023-02-11",
+          "mbid": "dc846f1f-fb8b-49c0-8d00-5d339956c090"
+        },
+        {
+          "title": "هليبه يا هليبه",
+          "date": "2023-02-11",
+          "mbid": "1b59067d-8cf4-45c9-97f2-858cf7869264"
+        },
+        {
+          "title": "يا سائلين عن هوى المحبوب",
+          "date": "2023-02-11",
+          "mbid": "27b06935-b742-4074-a698-9ab43e8da3af"
+        },
+        {
+          "title": "اخوتي",
+          "date": "2023-02-11",
+          "mbid": "40706a95-f679-46a0-bbfb-999a4a6d5357"
+        },
+        {
+          "title": "أرض أم جبل",
+          "date": "2023-02-11",
+          "mbid": "9504d550-8671-4ed3-9d7e-81772d618150"
+        },
+        {
+          "title": "قال الفتى يحيى عمر",
+          "date": "2023-02-11",
+          "mbid": "3933b106-3a82-48a3-ba77-ef3a123f92f8"
+        },
+        {
+          "title": "قم يا صبيوا",
+          "date": "2023-02-11",
+          "mbid": "b2836134-fe66-4c43-aaa2-75991829e8ad"
+        },
+        {
+          "title": "لقيت يامه",
+          "date": "2023-02-11",
+          "mbid": "8827d0ea-2c19-4680-a489-e5e2a4c91c0e"
+        },
+        {
+          "title": "لله ما يحوي هذا المقام",
+          "date": "2023-02-11",
+          "mbid": "1361845d-c4a4-4074-a007-b3b5c3ee012d"
+        },
+        {
+          "title": "معلة الله",
+          "date": "2023-02-11",
+          "mbid": "8a645890-a8bd-4b68-a589-e09776acc03b"
+        },
+        {
+          "title": "يأبن الناس حبيتك",
+          "date": "2023-02-11",
+          "mbid": "d00fffd6-1240-496f-adea-b8a3fa17d97f"
+        },
+        {
+          "title": "عالم سري",
+          "date": "2023-02-11",
+          "mbid": "f3203fad-e5cf-4a91-a74d-47d598244909"
+        },
+        {
+          "title": "بيني و بينك",
+          "date": "2023-02-11",
+          "mbid": "d0113cb7-dcac-41df-a453-05eaff6ec7c8"
+        },
+        {
+          "title": "أهلا بمن سلم",
+          "date": "2023-02-11",
+          "mbid": "a22bb621-bc86-4606-9fd9-3382d8e71cc5"
+        },
+        {
+          "title": "أراك طروبا",
+          "date": "2023-02-11",
+          "mbid": "530ad21d-2f1a-40bd-ae4e-0ad6432b77b1"
+        },
+        {
+          "title": "دار الفلك دار",
+          "date": "2023-02-11",
+          "mbid": "90753f7a-632e-4c18-b358-3934f89b23d9"
+        },
+        {
+          "title": "ظبي من شمسان",
+          "date": "2023-02-11",
+          "mbid": "56c5678b-244b-4198-9bae-9d31cfeeb2c4"
+        },
+        {
+          "title": "بغيني الحب",
+          "date": "2023-02-11",
+          "mbid": "be3d2f6a-99a1-4bb8-908f-088bd8196cbe"
+        },
+        {
+          "title": "يحقيلك يا قمري تتكبري",
+          "date": "2023-02-11",
+          "mbid": "2bc5f192-ce06-47bc-9c15-ce827fa3fe9d"
+        },
+        {
+          "title": "في رمش عيني",
+          "date": "2023-02-11",
+          "mbid": "9e80c778-34fb-4581-a50d-d30af5eb9b32"
+        },
+        {
+          "title": "يسيل سيباني سيباني",
+          "date": "2023-02-11",
+          "mbid": "e0397383-6d6c-4442-b9f8-55d00b3e0a6d"
+        },
+        {
+          "title": "في ليل الليل",
+          "date": "2023-02-11",
+          "mbid": "f534d947-16ca-4b1a-ae9d-0a8d3755358e"
+        },
+        {
+          "title": "Yâ Sâ'ili 'an Hawâ Al-mahbûb = Toi Qui Interroge Sur La Passion De L'aimé",
+          "date": "2002",
+          "mbid": "87aaa8b0-e757-478d-b276-32ff4b972550"
+        },
+        {
+          "title": "'Alam Sîrî Bismi Llah Al-rahmân = Marche Ô Mariée, Au Nom de Dieu Le Miséricordieux",
+          "date": "2002",
+          "mbid": "40d1b2b2-3e61-454a-a5db-33e2fbe6bedb"
+        },
+        {
+          "title": "Yâ Wakfaton Li = Oh Cette Scène Que J'ai Vécue",
+          "date": "2002",
+          "mbid": "78a6c957-ffee-4b1b-86be-797311fbc085"
+        },
+        {
+          "title": "Garîb Bâb Al-dunyâ = Elle Est Proche la Porte Du Bas-Monde, Suivi De Dâr Al-falak Dâr = L'astre Tourne",
+          "date": "2002",
+          "mbid": "b25c21f7-0453-4bdb-8beb-53fa827d4db9"
+        },
+        {
+          "title": "Arâk Tarûban Ka-l-mutayyami = Je Te Vois Ému Et Préocuppé",
+          "date": "2002",
+          "mbid": "9624d074-3f63-4551-ad1d-cf4222dac3e8"
+        },
+        {
+          "title": "Yâ Ibn Al-Nass",
+          "date": "2002",
+          "mbid": "8e05decb-b95e-488a-9e80-fa62eb585365"
+        },
+        {
+          "title": "'Ayyaratnî Al-shayb = La Blancheur de Mes Cheveux, Suivi De Ahibbek Yâ Ghâlî = Je T'aime Ô Mon Cher",
+          "date": "2002",
+          "mbid": "3cfad0bd-b2f2-4975-9731-e2877bbaf367"
+        },
+        {
+          "title": "Al-Warda Al-hamra = La Rose Rouge",
+          "date": "2002",
+          "mbid": "a15feb6e-d04b-4da7-988d-f560c30fbd22"
+        }
+      ],
+      "mbid": "a4bfc9b8-087b-4756-9c25-2cbc1d0cfc5a",
+      "wikidata": "https://www.wikidata.org/wiki/Q12241001",
+      "verified": true
+    },
+    {
+      "id": "ali-abdullah-al-simah",
+      "nameAr": "علي عبد الله السمه",
+      "nameEn": "Ali Abdullah Al-Simah",
+      "aliases": [
+        "علي السمة"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "علي عبد الله السمه هو مغني وشاعر وملحن يمني. ولد عام 1935 في صنعاء القديمة، وترعرع ودرس فيها. عمل في بداية حياته في قيادة ناقلات البضائع، ثم هاجر إلى المملكة العربية السعودية بحثاً عن عمل، ثم عاد إلى اليمن والتحق بصفوف القوات المسلحة. حصل على ماجستير في العلوم العسكرية من الاتحاد السوفييتي، درس الموسيقى في المعهد العالي للموسيقى في عدن. عمل في إذاعة صنعاء ثم في إذاعة تعز. ويعد الشاعر من جيل إحياء التراث اليمني، وكتب القصيدة العاطفية والوطنية والاجتماعية. تعامل مع العديد من الشعراء اليمنيين.",
+      "bioSource": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%8A_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%B3%D9%85%D9%87",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q17344778",
+      "verified": true
+    },
+    {
+      "id": "ali-al-ansi",
+      "nameAr": "علي الآنسي",
+      "nameEn": "Ali Al-Ansi",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    },
+    {
+      "id": "ahmed-al-sunaidar",
+      "nameAr": "أحمد السنيدار",
+      "nameEn": "أحمد السنيدار",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "أحمد بن أحمد السُّنَيْدار،(1939 -) هو مغني وملحن يمني.",
+      "bioSource": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D8%AF%D8%A7%D8%B1",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "f3ddff55-1161-4b24-913b-dc80b8efa60f",
+      "wikidata": "https://www.wikidata.org/wiki/Q6821505",
+      "verified": true
+    },
+    {
+      "id": "mohammed-saad-abdullah",
+      "nameAr": "محمد سعد عبد الله",
+      "nameEn": "Mohamed sa'd Abdullah",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [
+        "lahji"
+      ],
+      "bioEn": "",
+      "bioAr": "محمد سعد عبد الله فنان يمني من مواليد محافظة لحج - مدينة الحوطة",
+      "bioSource": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B3%D8%B9%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87",
+      "image": "https://upload.wikimedia.org/wikipedia/ar/2/29/%D9%85%D8%AD%D9%85%D8%AF_%D8%B3%D8%B9%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87.jpeg.jpg?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imageSource": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B3%D8%B9%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q12240549",
+      "verified": true
+    },
+    {
+      "id": "mohammed-jumaa-khan",
+      "nameAr": "محمد جمعة خان",
+      "nameEn": "Mohammed Jumaa Khan",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [
+        "hadhrami"
+      ],
+      "bioEn": "",
+      "bioAr": "مُحَمَّد جُمْعَة خان موسيقي حضرمي يمني من أصل بنجابي كان له دور كبير في تطوير اللون الغناء الحضرمي وأدخل عليه الكثير من الألحان والإيقاعات ، هاجر عدة مرات لدولة الكويت للمساهمة في المجال الفني.",
+      "bioSource": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%AC%D9%85%D8%B9%D8%A9_%D8%AE%D8%A7%D9%86",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Muhammed_Jumaa_Khan.jpg?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imageSource": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%AC%D9%85%D8%B9%D8%A9_%D8%AE%D8%A7%D9%86",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "c51a61db-7c8a-480a-8cbc-27837c90899c",
+      "wikidata": "https://www.wikidata.org/wiki/Q12240350",
+      "verified": true
+    },
+    {
+      "id": "ahmed-fathi",
+      "nameAr": "أحمد فتحي",
+      "nameEn": "Ahmed Fathi",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "Ahmed Fathi is a Yemeni musician, composer and singer. Born in the city of Al Hudaydah to the west of Yemen in 1957. He emigrated to Egypt for study. Fathi received a master's degree from the Arab Music High Institute in Egypt for his thesis \"The Role of the Lute in the Yemeni Singing\" in 1998. He also got an Honorary PhD. from Hodeidah University in 2006. He is the father of the singer Balqees.",
+      "bioAr": "أحمد فتحي (1957)، موسيقار وعازف عود ومغني يمني. من مواليد محافظة الحديدة - مدينة الضحي، هاجر في سن الشباب إلى جمهورية مصر العربية، وحصل على درجة الماجستير من المعهد العالي للموسيقى العربية بمصر، عن عام 1998م، بتقدير ممتاز ، كما حصل على الدكتوراه الفخرية من جامعة الحديدة عام 2006م، وهو والد المغنية بلقيس.",
+      "bioSource": "https://en.wikipedia.org/wiki/Ahmed_Fathi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nobel_Peace_Prize_Concert_2011_Ahmed_Fathi_Harry_Wad.jpg/330px-Nobel_Peace_Prize_Concert_2011_Ahmed_Fathi_Harry_Wad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Ahmed_Fathi",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/ahmedfathioud"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/ahmedfathi_official2"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ahmedfathimusic"
+        }
+      ],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "103c42ab-b065-4501-a080-c7714fd7f4e4",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822196",
+      "verified": true
+    },
+    {
+      "id": "fuad-al-kibsi",
+      "nameAr": "فؤاد الكبسي",
+      "nameEn": "Fuad al-Kibsi",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "Fuad al-Kibsi is a Yemeni singer. He is among the most popular singers and musicians in Yemen. Most of his music are of ancient scholarly and oral traditions of Yemen. He is son of the famous Yemeni poet, Abdallah Hashim al-Kibsi.",
+      "bioAr": "فؤاد عبد الله هاشم الكبسي فنان يمني، من مواليد صنعاء عام 1961م.",
+      "bioSource": "https://en.wikipedia.org/wiki/Fuad_al-Kibsi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Fuad_al-Kibsi.webm/330px--Fuad_al-Kibsi.webm.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/Fuad_al-Kibsi",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q12229947",
+      "verified": true
+    },
+    {
+      "id": "abdul-rahman-al-akhfash",
+      "nameAr": "عبد الرحمن الأخفش",
+      "nameEn": "Abdul Rahman Al-Akhfash",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    },
+    {
+      "id": "abdulbaset-al-absi",
+      "nameAr": "عبد الباسط العبسي",
+      "nameEn": "Abdulbaset Al-Absi",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    },
+    {
+      "id": "hussein-moheb",
+      "nameAr": "حسين محب",
+      "nameEn": "Hussein Moheb",
+      "aliases": [
+        "Hussein Muhib"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "Hussein Moheb is a well-known Yemeni singer. He was born in 1985 in Hamdan District, Sana'a, and started singing in 2000.",
+      "bioAr": "حسين محب مغني وملحن يمني. ولد في عام 1985 في قرية العرشي - همدان، بدأ الغناء في عام 2000، تم تعيينه مديرا للمركز الثقافي اليمني ب القاهرة.",
+      "bioSource": "https://en.wikipedia.org/wiki/Hussein_Moheb",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hussain_Moheb_in_Sanaani_attire_%28cropped%29.jpg/330px-Hussain_Moheb_in_Sanaani_attire_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Hussein_Moheb",
+      "website": "",
+      "socials": [],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCYp6UnPMUxg0kMUaTt3yNVg"
+        }
+      ],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q60565242",
+      "verified": true
+    },
+    {
+      "id": "balqees",
+      "nameAr": "بلقيس",
+      "nameEn": "Balqees",
+      "aliases": [
+        "Balqees Fathi"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [
+        "Arabic music",
+        "pop music"
+      ],
+      "styles": [],
+      "bioEn": "Balqees Ahmed Fathi, widely known by the mononym Balqees (بلقيس), is a Yemeni-Emirati singer and actress. She came from an artistic family as her father Ahmed Fathi was a well-known Yemeni musician and her mother is also a Yemeni with an Emirati citizenship.",
+      "bioAr": "بلقيس ، مغنية يمنية حاملة للجنسية الإماراتية. وهي إبنة المغني اليمني أحمد فتحي. وتعتبر من أنجح المغنيات العربيات، حيث برزت من خلال غنائها بأغلب اللهجات العربية، وحصلت على العديد من الجوائز الغنائية العربية، مثل جائزة أفضل صوت نسائي عربي شاب، وجائزة أفضل مطربة خليجية.",
+      "bioSource": "https://en.wikipedia.org/wiki/Balqees_(singer)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Balqees_Ad_1.png/330px-Balqees_Ad_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageSource": "https://en.wikipedia.org/wiki/Balqees_(singer)",
+      "website": "",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/BalqeesFathi"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/balqeesfathi"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/BalqeesOfficial"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCQd1_s2J6NvI-7YYN6MkIxA"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/504167511"
+        }
+      ],
+      "albums": [
+        {
+          "title": "Arahenkom أراهنكم",
+          "date": "2017-04-15",
+          "mbid": "748c205e-681d-45e3-a683-c28b7b2fe443"
+        },
+        {
+          "title": "غل",
+          "date": "2026-05-19",
+          "mbid": "aceab036-0598-4a00-aeb4-adff51861efb"
+        },
+        {
+          "title": "Majnoun مجنون",
+          "date": "2013-05-23",
+          "mbid": "b434a68a-10f6-4e14-9b40-cfd6ef42bf8c"
+        },
+        {
+          "title": "Zai Ma Ana ... زي ما أنا",
+          "date": "2015-04-20",
+          "mbid": "ce93c543-1e89-4dbb-b89e-f8db6dbddd5b"
+        }
+      ],
+      "songs": [
+        {
+          "title": "أراهنكم",
+          "date": "2017-04-15",
+          "mbid": "2d7487c8-44c2-47f3-bd4a-16c402327d93"
+        },
+        {
+          "title": "حقير الشوق",
+          "date": "2017-04-15",
+          "mbid": "e9f7521d-b30c-4a5e-8e76-5bd39cc77785"
+        },
+        {
+          "title": "النفسية محتاجة",
+          "date": "2017-04-15",
+          "mbid": "3e5e9d4a-9af8-4bea-912a-a20491ebc926"
+        },
+        {
+          "title": "يكفي",
+          "date": "2017-04-15",
+          "mbid": "0ed97171-5c12-4fc3-bc5f-0ee8ffaa3cd5"
+        },
+        {
+          "title": "ههاي",
+          "date": "2017-04-15",
+          "mbid": "a631516c-426a-4a30-9a34-64aa9904e253"
+        },
+        {
+          "title": "ابويا واحشني جدا",
+          "date": "2017-04-15",
+          "mbid": "55ec31e6-800b-4e5c-9528-38bd0ecdf9d8"
+        },
+        {
+          "title": "الحضارم",
+          "date": "2017-04-15",
+          "mbid": "6ddf24ab-38ef-4d44-99bc-cd522b54c204"
+        },
+        {
+          "title": "يا خالة",
+          "date": "2017-04-15",
+          "mbid": "c63ea253-7a9c-40b1-8be1-aabdc3cd224b"
+        },
+        {
+          "title": "استغفر الله",
+          "date": "2017-04-15",
+          "mbid": "b8458dfc-ed8f-407f-8762-cf2c88949ea3"
+        },
+        {
+          "title": "وبيرجعوا",
+          "date": "2017-04-15",
+          "mbid": "4abaa59b-efbd-428b-b95a-87d3c07d0409"
+        },
+        {
+          "title": "اخترتك انت",
+          "date": "2017-04-15",
+          "mbid": "39657f83-27d0-4704-ab45-a34d43584a8e"
+        },
+        {
+          "title": "ارجوك",
+          "date": "2017-04-15",
+          "mbid": "29298873-2654-459e-89e4-879ca25adda6"
+        },
+        {
+          "title": "أنا هنا",
+          "date": "2026-05-19",
+          "mbid": "3b2c14c6-8dd0-4a3e-89ba-c67444d3a9f7"
+        },
+        {
+          "title": "زهر ليمون",
+          "date": "2026-05-19",
+          "mbid": "011c3adf-68df-411a-8d19-ec1c06f481a0"
+        },
+        {
+          "title": "الحب يحلي",
+          "date": "2026-05-19",
+          "mbid": "cfa2d51b-11f7-4755-bab2-faf990f35cf2"
+        },
+        {
+          "title": "دلا يا قمر",
+          "date": "2026-05-19",
+          "mbid": "9ee7d017-0058-4f91-a240-abc75973b643"
+        },
+        {
+          "title": "يا حظ أمه",
+          "date": "2026-05-19",
+          "mbid": "4f9f58be-c471-45ac-a219-599ab03f30ea"
+        },
+        {
+          "title": "يا حرش",
+          "date": "2026-05-19",
+          "mbid": "ea991d2d-2254-436f-8df4-eba683f2ed62"
+        },
+        {
+          "title": "غل",
+          "date": "2026-05-19",
+          "mbid": "8a63f78d-ccc9-413f-b119-a40da2806119"
+        },
+        {
+          "title": "دراما",
+          "date": "2026-05-19",
+          "mbid": "e425b47a-4859-448d-932a-75aeb01f7a31"
+        },
+        {
+          "title": "مجنون",
+          "date": "2013",
+          "mbid": "67bfaa71-8cd5-4aa0-84c6-2ff3f5404b3b"
+        },
+        {
+          "title": "دقوا خيبتي",
+          "date": "2013",
+          "mbid": "448debd3-b93e-4c0a-9f27-e9ec92e92ff3"
+        },
+        {
+          "title": "ما طلبت البعد",
+          "date": "2013",
+          "mbid": "ee63d229-9681-4c2b-9971-af6b74294bbc"
+        },
+        {
+          "title": "مرار",
+          "date": "2013",
+          "mbid": "31c6ccb7-26d6-498b-91e7-71cac41259eb"
+        },
+        {
+          "title": "هذا منو",
+          "date": "2013",
+          "mbid": "53af7b25-79f2-4adf-b8e0-8bd54e61bf18"
+        },
+        {
+          "title": "وش فيه متغير",
+          "date": "2013",
+          "mbid": "6423c23a-dae7-469c-8975-2fa34026f1f4"
+        },
+        {
+          "title": "طابت جروحي",
+          "date": "2013",
+          "mbid": "91496e42-2209-458d-8057-692c9f23121f"
+        },
+        {
+          "title": "معدبني هوا",
+          "date": "2013",
+          "mbid": "b21d0f7c-e8ea-4871-8454-f1a51155c1d5"
+        },
+        {
+          "title": "أحب السعودية",
+          "date": "2013",
+          "mbid": "916957ef-8d83-4ecc-9739-8170a522c71e"
+        },
+        {
+          "title": "على راحتك",
+          "date": "2013",
+          "mbid": "1f74d93c-e44b-4e6a-a475-7f3dc8455ba9"
+        },
+        {
+          "title": "حسبي عليك الله",
+          "date": "2013",
+          "mbid": "c14c462d-e785-4d85-9584-a5f99fc0ab71"
+        },
+        {
+          "title": "القلب وما يهوي",
+          "date": "2013",
+          "mbid": "8d83fba4-0474-488d-9762-bbbff432eb95"
+        },
+        {
+          "title": "اربع دقايق",
+          "date": "2013",
+          "mbid": "c5f73d6b-e5fa-401c-b016-4aa49cc4fe40"
+        },
+        {
+          "title": "زي ما أنا",
+          "date": "2015",
+          "mbid": "7f1fc7ca-04c0-42de-a17d-9ee56ce77512"
+        },
+        {
+          "title": "مبروك",
+          "date": "2015",
+          "mbid": "c1aef665-61f4-44dc-970f-56718f6b4199"
+        },
+        {
+          "title": "أمت مت",
+          "date": "2015",
+          "mbid": "4cb1aa98-b1fc-447e-b968-f26446480724"
+        },
+        {
+          "title": "ياخي",
+          "date": "2015",
+          "mbid": "2d312831-7709-45f5-83f7-08909bc4afb0"
+        },
+        {
+          "title": "إنت",
+          "date": "2015",
+          "mbid": "c1280156-b3bb-474e-9fc5-bba28ada32a4"
+        },
+        {
+          "title": "غرام",
+          "date": "2015",
+          "mbid": "a0baf92b-a018-41a8-bb08-e520b415591a"
+        },
+        {
+          "title": "ليه صار حبك",
+          "date": "2015",
+          "mbid": "8d768972-b6f2-4f6e-b9f9-99d9628cabf2"
+        }
+      ],
+      "mbid": "5838f72f-6d16-43be-a5ed-67a83b60cc30",
+      "wikidata": "https://www.wikidata.org/wiki/Q12199113",
+      "verified": true
+    },
+    {
+      "id": "arwa",
+      "nameAr": "أروى",
+      "nameEn": "Arwa",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [
+        "world music"
+      ],
+      "styles": [],
+      "bioEn": "Arwa is a Yemeni-Egyptian singer and television host.",
+      "bioAr": "أروى ، مغنية ومقدمة برامج يمنية، انطلقت على يد الملحن الكويتي يوسف المهنا أثناء دراستها في بلد والدتها مصر في أواخر التسعينات وقدمت أول ألبوم لها بعنوان «رجعك وقتك»، قدمت العديد من الأغاني بمختلف اللهجات العربية مثل الخليجية والمصرية واللبنانية.",
+      "bioSource": "https://en.wikipedia.org/wiki/Arwa_(singer)",
+      "image": "",
+      "imageSource": "",
+      "website": "https://arwaofficial.com/",
+      "socials": [
+        {
+          "label": "X",
+          "url": "https://x.com/ArwaOnline"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/arwaonline"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ArwaOnline"
+        }
+      ],
+      "listen": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/channel/UCQ1CNMyOCa8QgWr8QliWSuQ"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn"
+        },
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/artist/507866422"
+        }
+      ],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q4119168",
+      "verified": true
+    },
+    {
+      "id": "fouad-abdulwahed",
+      "nameAr": "فؤاد عبد الواحد",
+      "nameEn": "Fuad Abdul-Wahed",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "فؤاد عبد الواحد ، مغني يمني.",
+      "bioSource": "https://ar.wikipedia.org/wiki/%D9%81%D8%A4%D8%A7%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [
+        {
+          "title": "فؤاد عبدالواحد ٢٠٢٤",
+          "date": "2023-12-06",
+          "mbid": "62e1b784-18cf-4497-9d81-6d850842cf25"
+        },
+        {
+          "title": "زفة 2012, Vol. 2",
+          "date": "2012-01-01",
+          "mbid": "983fc4c2-3d96-4fe5-9c54-c5320b6f507a"
+        }
+      ],
+      "songs": [
+        {
+          "title": "قلة أدب",
+          "date": "2023-12-06",
+          "mbid": "2c8fca84-fb47-4aa7-b3e1-bf2358097320"
+        },
+        {
+          "title": "حبيبي",
+          "date": "2023-12-06",
+          "mbid": "dc00d1de-c727-4900-beb2-41be81526eab"
+        },
+        {
+          "title": "ضاق الغمام",
+          "date": "2023-12-06",
+          "mbid": "0f0a1270-b636-4b92-9b05-aeb9557e1671"
+        },
+        {
+          "title": "أدراه",
+          "date": "2023-12-06",
+          "mbid": "40a66bc4-cb7d-48aa-a69e-470e49a894af"
+        },
+        {
+          "title": "تركت الشوق",
+          "date": "2023-12-06",
+          "mbid": "161cfd91-dcb5-4c84-99d2-73523b60fcbe"
+        },
+        {
+          "title": "الإنّه",
+          "date": "2023-12-06",
+          "mbid": "c0a41a34-0955-4b43-94b8-23a918c3e32b"
+        },
+        {
+          "title": "كل أحبك",
+          "date": "2023-12-06",
+          "mbid": "b4617846-53af-484e-a325-a56daca6b4b0"
+        },
+        {
+          "title": "نشّد",
+          "date": "2023-12-06",
+          "mbid": "c5c739e0-3132-4096-bb3a-2b8847cc685f"
+        },
+        {
+          "title": "حبيب الناس",
+          "date": "2023-12-06",
+          "mbid": "3f45d67a-a04f-4fe0-90d6-f5caa0983345"
+        },
+        {
+          "title": "مهما قلت",
+          "date": "2023-12-06",
+          "mbid": "2850174a-6494-4aa0-8739-34588ae04a18"
+        },
+        {
+          "title": "أبراي لله",
+          "date": "2023-12-06",
+          "mbid": "4f77a0e6-f374-44ab-afe5-0343d92e73d7"
+        },
+        {
+          "title": "أنا الكذاب",
+          "date": "2023-12-06",
+          "mbid": "a8c1799f-6835-4e5c-97fe-c52d408566e6"
+        },
+        {
+          "title": "زفه صنعاني",
+          "date": "2012-01-01",
+          "mbid": "a9f88583-a74a-482f-b430-7f6becd0ff21"
+        },
+        {
+          "title": "كوكتيل لحجي",
+          "date": "2012-01-01",
+          "mbid": "3c2b6f1a-f147-4d13-9f54-5053d579272e"
+        },
+        {
+          "title": "اوهمني بحبه",
+          "date": "2012-01-01",
+          "mbid": "6a5f6edc-4d4e-4fd8-9a45-0130cbb9a470"
+        },
+        {
+          "title": "عاده صغير",
+          "date": "2012-01-01",
+          "mbid": "a03f202a-3b40-40e4-ad24-70c6eea1c904"
+        }
+      ],
+      "mbid": "da5fc482-3de7-47b7-bebe-7f0862ef3903",
+      "wikidata": "https://www.wikidata.org/wiki/Q12229970",
+      "verified": true
+    },
+    {
+      "id": "aseel-abu-baker",
+      "nameAr": "أسيل أبو بكر",
+      "nameEn": "Aseel Abu Baker",
+      "aliases": [
+        "Aseel Abu Bakr"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    },
+    {
+      "id": "ammar-alazaki",
+      "nameAr": "عمار العزكي",
+      "nameEn": "Ammar Mohammad Al Azaki",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [
+        "pop"
+      ],
+      "bioEn": "Ammar Mohammad Alazaki is a Yemeni pop singer known for being a finalist in the fourth season of Arab Idol, broadcast by the MBC network. His nomination received widespread coverage in Yemen amidst the Yemeni Civil War. Alazaki initially gained recognition for winning the 2006 Munshid Al Sharjah competition which specialized in Nasheed type of singing, hosted by the Sharjah Media Corporation and under the patronage of the Ruler of the Emirate of Sharjah.",
+      "bioAr": "عمار محمد العزكي مغني بوب يمني اشتهر بوصوله لنهائيات الموسم الرابع من برنامج محبوب العرب الذي تبثه شبكة إم بي سي. حظي ترشيحه بتغطية واسعة في اليمن في خضم الحرب الأهلية اليمنية. حصل العزكيل في البداية على تقدير لفوزه في مسابقة منشد الشارقة لعام 2006 والتي تخصصت في الإنشاد، التي استضافتها مؤسسة الشارقة للإعلام وتحت رعاية حاكم إمارة الشارقة.",
+      "bioSource": "https://en.wikipedia.org/wiki/Ammar_Alazaki",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "https://www.wikidata.org/wiki/Q67603649",
+      "verified": true
+    },
+    {
+      "id": "hajar-noman",
+      "nameAr": "هاجر نعمان",
+      "nameEn": "Hajar Noman",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    },
+    {
+      "id": "maria-qahtan",
+      "nameAr": "ماريا قحطان",
+      "nameEn": "Maria Qahtan",
+      "aliases": [],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    },
+    {
+      "id": "fatimah-muthanna",
+      "nameAr": "فاطمة مثنى",
+      "nameEn": "Fatimah Muthanna",
+      "aliases": [
+        "Fatima Muthanna"
+      ],
+      "country": "Yemen",
+      "yemen": true,
+      "genres": [],
+      "styles": [],
+      "bioEn": "",
+      "bioAr": "",
+      "bioSource": "",
+      "image": "",
+      "imageSource": "",
+      "website": "",
+      "socials": [],
+      "listen": [],
+      "albums": [],
+      "songs": [],
+      "mbid": "",
+      "wikidata": "",
+      "verified": false
+    }
+  ]
+}
